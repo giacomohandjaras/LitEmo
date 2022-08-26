@@ -74,3 +74,12 @@ STEP D: additional analyses <br>
 7) <i>plot_terms_semantic_shifts.m</i>: sankey plot related to the semantic shifts of words (Supplementary Figure 7C)
 
 8) <i>measure_author_dictionary_bootstrap.m</i>: bootstrap measure of the vocabulary size (Supplementary Figure 1F)
+<br>
+<br>
+<br>
+Preprint available <i>here</i>.
+Large MAT files are available in the OSF repository of the project: https://osf.io/mcx5a/
+
+
+
+
