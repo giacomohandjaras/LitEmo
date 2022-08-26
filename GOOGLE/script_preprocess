@@ -1,0 +1,77 @@
+#! /usr/bin/perl
+
+$DEBUG=1;
+
+
+#INIZIO PROGRAMMA. NON TOCCARE SE NON SI SA COSA SI VUOL FARE!
+
+my($files_number)=scalar(@ARGV);
+
+if ($files_number<2){
+print "\nUsage: script_preprocess [dataset n-gram google] [dizionario_estratto.txt] \n";
+exit;
+}
+
+$FILETOREAD=@ARGV[0];
+$FILETOSAVE=@ARGV[1];
+
+#IMPORTIAMO IL FILE @vettore_dati
+if ($DEBUG>=1){print "\n------------------------------\n";}
+print "Apro il file...\n";
+my(@vettore_dati);
+if ($DEBUG>=1){print "Il file caricato è $FILETOREAD\n";}
+open(FILE, $FILETOREAD) or die("ERRORE: il file specificato non esiste!\a\n\n");
+push (@vettore_dati, <FILE>);
+close FILE;
+
+$lines=scalar(@vettore_dati);
+
+my(@vettore_dictionary);
+my(@vettore_conteggi);
+
+
+if ($DEBUG>=1){print "Il numero di linee è $lines\n";}
+
+for($y=0;$y<$lines;$y++)
+{
+$counter = $y % 100000;	
+if ($DEBUG>=1){ if ( $counter==0 ) {print "Siamo alla linea $y\n";} }
+
+$riga=@vettore_dati[$y];
+chop $riga; #elimino il return
+($word,$data_freq)=split(/\t/, $riga,2);
+if ($DEBUG>=2){print "Trovata parola $word\n";}
+
+#To handle part-of-speech
+#my $position = rindex($word, "_");
+#if ($position>=0) { $word = substr($word, 0, $position); }
+#if ($DEBUG>=2){print "Parola pulita $word\n";}
+push(@vettore_dictionary,$word);
+
+$conteggio=0;
+my @elements=split(/\t/, $data_freq);
+for($t=0;$t<scalar(@elements);$t++)
+{
+($year,$freq,$books)=split(/,/, @elements[$t],3);
+$conteggio=$conteggio+$freq;
+if ($DEBUG>=3){print @elements[$t]."=>".$year.":".$freq."\n";}
+}
+push(@vettore_conteggi,$conteggio);
+if ($DEBUG>=2){print "Parola ".$word.", conteggio: ".$conteggio."\n";}
+}
+
+
+if ($DEBUG>=1){print "\n------------------------------\n";}
+if ($DEBUG>=1){print "Inizio salvataggio file $FILETOSAVE\n";}
+open(FILE, ">",$FILETOSAVE) or die("\nErrore durante il salvataggio del file $FILETOSAVE.\n\n");
+
+for($y=0;$y<scalar(@vettore_dictionary);$y++)
+{
+printf FILE @vettore_dictionary[$y]."\t".@vettore_conteggi[$y]."\n";
+}
+close(FILE);
+
+if ($DEBUG>=1){print "\n------------------------------\n";}
+
+print "\n\nProgramma completato. \n";
+exit 0;
