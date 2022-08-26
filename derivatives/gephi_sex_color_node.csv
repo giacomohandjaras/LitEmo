@@ -1,0 +1,1366 @@
+Id;Label;AltLabel;color
+1;Aciman André;Node_alt_1;#ED6869
+2;Agassi Andre;Node_alt_2;#ED6869
+3;Alcott Louisa May;Node_alt_3;#79C074
+4;Allende Isabel;Node_alt_4;#79C074
+5;Ammaniti Niccolò;Node_alt_5;#ED6869
+6;Anderson Sherwood;Node_alt_6;#ED6869
+7;Atkinson Kate;Node_alt_7;#79C074
+8;Atwood Margaret;Node_alt_8;#79C074
+9;Austen Jane;Node_alt_9;#79C074
+10;Auster Paul;Node_alt_10;#ED6869
+11;Ballard JG;Node_alt_11;#ED6869
+12;Barbery Muriel;Node_alt_12;#79C074
+13;Baricco Alessandro;Node_alt_13;#ED6869
+14;Barnes Julian;Node_alt_14;#ED6869
+15;Bassani Giorgio;Node_alt_15;#ED6869
+16;Baum L Frank;Node_alt_16;#ED6869
+17;Bellow Saul;Node_alt_17;#ED6869
+18;Bender Aimee;Node_alt_18;#79C074
+19;Benioff David;Node_alt_19;#ED6869
+20;Bennett Alan;Node_alt_20;#ED6869
+21;Bennett Andrea;Node_alt_21;#79C074
+22;Bernhard Thomas;Node_alt_22;#ED6869
+23;Bolaño Roberto;Node_alt_23;#ED6869
+24;Borges Jorge Luis;Node_alt_24;#ED6869
+25;Boyne John;Node_alt_25;#ED6869
+26;Bradbury Ray;Node_alt_26;#ED6869
+27;Brontë Charlotte;Node_alt_27;#79C074
+28;Brontë Emily;Node_alt_28;#79C074
+29;Bukowski Charles;Node_alt_29;#ED6869
+30;Bulgakov Mikhail;Node_alt_30;#ED6869
+31;Bunker Edward;Node_alt_31;#ED6869
+32;Byatt Antonia Susan;Node_alt_32;#79C074
+33;Cain James;Node_alt_33;#ED6869
+34;Calvino Italo;Node_alt_34;#ED6869
+35;Cameron Peter;Node_alt_35;#ED6869
+36;Camus Albert;Node_alt_36;#ED6869
+37;Capote Truman;Node_alt_37;#ED6869
+38;Carrère Emmanuel;Node_alt_38;#ED6869
+39;Carrisi Donato;Node_alt_39;#ED6869
+40;Carroll Lewis;Node_alt_40;#ED6869
+41;Carter Angela;Node_alt_41;#79C074
+42;Carver Raymond;Node_alt_42;#ED6869
+43;Cather Willa;Node_alt_43;#79C074
+44;Catozzella Giuseppe;Node_alt_44;#ED6869
+45;Chabon Michael;Node_alt_45;#ED6869
+46;Chandler Raymond;Node_alt_46;#ED6869
+47;Chatwin Bruce;Node_alt_47;#ED6869
+48;Cheever John;Node_alt_48;#ED6869
+49;Christie Agatha;Node_alt_49;#79C074
+50;Clarke Arthur;Node_alt_50;#ED6869
+51;Cocteau Jean;Node_alt_51;#ED6869
+52;Coe Jonathan;Node_alt_52;#ED6869
+53;Coelho Paulo;Node_alt_53;#ED6869
+54;Coetzee JM;Node_alt_54;#ED6869
+55;Cognetti Paolo;Node_alt_55;#ED6869
+56;Collodi Carlo;Node_alt_56;#ED6869
+57;Connelly Michael;Node_alt_57;#ED6869
+58;Conrad Joseph;Node_alt_58;#ED6869
+59;Cooper Glenn;Node_alt_59;#ED6869
+60;Cooper James;Node_alt_60;#ED6869
+61;Crichton Michael;Node_alt_61;#ED6869
+62;Cronin AJ;Node_alt_62;#ED6869
+63;Cunningham Michael;Node_alt_63;#ED6869
+64;Dawkins Richard;Node_alt_64;#ED6869
+65;De Giovanni Maurizio;Node_alt_65;#ED6869
+66;DeLillo Don;Node_alt_66;#ED6869
+67;de Maupassant Guy;Node_alt_67;#ED6869
+68;de Saint-Exupéry Antoine;Node_alt_68;#ED6869
+69;Dickens Charles;Node_alt_69;#ED6869
+70;Dicker Joël;Node_alt_70;#ED6869
+71;Dick Philip Kindred;Node_alt_71;#ED6869
+72;Didion Joan;Node_alt_72;#79C074
+73;Dostoevsky Fyodor;Node_alt_73;#ED6869
+74;Doyle Arthur Conan;Node_alt_74;#ED6869
+75;Dumas Alexandre;Node_alt_75;#ED6869
+76;Duras Marguerite;Node_alt_76;#79C074
+77;Durrell Gerald;Node_alt_77;#ED6869
+78;Eco Umberto;Node_alt_78;#ED6869
+79;Eggers Dave;Node_alt_79;#ED6869
+80;Eliot George;Node_alt_80;#79C074
+81;Ellis Bret Easton;Node_alt_81;#ED6869
+82;Eugenides Jeffrey;Node_alt_82;#ED6869
+83;Fante John;Node_alt_83;#ED6869
+84;Faulkner William;Node_alt_84;#ED6869
+85;Ferrante Elena;Node_alt_85;#79C074
+86;Fielding Helen;Node_alt_86;#79C074
+87;Fitzgerald Francis Scott;Node_alt_87;#ED6869
+88;Flagg Fannie;Node_alt_88;#79C074
+89;Flaubert Gustave;Node_alt_89;#ED6869
+90;Flynn Gillian;Node_alt_90;#79C074
+91;Foer Jonathan Safran;Node_alt_91;#ED6869
+92;Follett Ken;Node_alt_92;#ED6869
+93;Ford Richard;Node_alt_93;#ED6869
+94;Frank Anne;Node_alt_94;#79C074
+95;Franzen Jonathan;Node_alt_95;#ED6869
+96;Gaiman Neil;Node_alt_96;#ED6869
+97;Gary Romain;Node_alt_97;#ED6869
+98;Gibson William;Node_alt_98;#ED6869
+99;Ginzburg Natalia;Node_alt_99;#79C074
+100;von Goethe Johann Wolfgang;Node_alt_100;#ED6869
+101;Gogol Nikolai;Node_alt_101;#ED6869
+102;Golden Arthur;Node_alt_102;#ED6869
+103;Golding William;Node_alt_103;#ED6869
+104;Gončarov Ivan;Node_alt_104;#ED6869
+105;Grandes Almudena;Node_alt_105;#79C074
+106;Grass Günter;Node_alt_106;#ED6869
+107;Green John;Node_alt_107;#ED6869
+108;Groff Lauren;Node_alt_108;#79C074
+109;Grogan John;Node_alt_109;#ED6869
+110;Gurdjieff Georges;Node_alt_110;#ED6869
+111;Haddon Mark;Node_alt_111;#ED6869
+112;Hamid Mohsin;Node_alt_112;#ED6869
+113;Hamsun Knut;Node_alt_113;#ED6869
+114;Hardy Thomas;Node_alt_114;#ED6869
+115;Hawkins Paula;Node_alt_115;#79C074
+116;Hemingway Ernest;Node_alt_116;#ED6869
+117;Hesse Herman;Node_alt_117;#ED6869
+118;Highsmith Patricia;Node_alt_118;#79C074
+119;Homes Amy;Node_alt_119;#79C074
+120;Honeyman Gail;Node_alt_120;#79C074
+121;Hornby Nick;Node_alt_121;#ED6869
+122;Hosseini Khaled;Node_alt_122;#ED6869
+123;Houellebecq Michel;Node_alt_123;#ED6869
+124;Howard Elizabeth Jane;Node_alt_124;#79C074
+125;Hrabal Bohumil;Node_alt_125;#ED6869
+126;Hugo Victor;Node_alt_126;#ED6869
+127;Huxley Aldous;Node_alt_127;#ED6869
+128;Huysmans Joris Karl;Node_alt_128;#ED6869
+129;Irving John;Node_alt_129;#ED6869
+130;Isaacson Walter;Node_alt_130;#ED6869
+131;Isherwood Christopher;Node_alt_131;#ED6869
+132;Ishiguro Kazuo;Node_alt_132;#ED6869
+133;Jackson Shirley;Node_alt_133;#79C074
+134;James Henry;Node_alt_134;#ED6869
+135;Jansson Tove;Node_alt_135;#79C074
+136;Jerome Jerome;Node_alt_136;#ED6869
+137;St John Mandel Emily;Node_alt_137;#79C074
+138;Johnson Adam;Node_alt_138;#ED6869
+139;Joyce James;Node_alt_139;#ED6869
+140;Kafka Franz;Node_alt_140;#ED6869
+141;Kanehara Hitomi;Node_alt_141;#79C074
+142;Kang Han;Node_alt_142;#79C074
+143;Karr Mary;Node_alt_143;#79C074
+144;Kawabata Yasunari;Node_alt_144;#ED6869
+145;Kawamura Genki;Node_alt_145;#ED6869
+146;Keneally Thomas;Node_alt_146;#ED6869
+147;Kerouac Jack;Node_alt_147;#ED6869
+148;King Stephen;Node_alt_148;#ED6869
+149;Kinsella Sophie;Node_alt_149;#79C074
+150;Kipling Rudyard;Node_alt_150;#ED6869
+151;Knausgård Karl Ove;Node_alt_151;#ED6869
+152;Krakauer Jon;Node_alt_152;#ED6869
+153;Kristof Ágota;Node_alt_153;#79C074
+154;Kundera Milan;Node_alt_154;#ED6869
+155;Laclos Pierre;Node_alt_155;#ED6869
+156;Lagercrantz David;Node_alt_156;#ED6869
+157;Lagioia Nicola;Node_alt_157;#ED6869
+158;Lahiri Jhumpa;Node_alt_158;#79C074
+159;Laing Olivia;Node_alt_159;#79C074
+160;Lampedusa Giuseppe Tomasi;Node_alt_160;#ED6869
+161;Larsson Stieg;Node_alt_161;#ED6869
+162;Laurain Antoine;Node_alt_162;#ED6869
+163;Leavitt David;Node_alt_163;#ED6869
+164;Lee Harper;Node_alt_164;#79C074
+165;Lehane Dennis;Node_alt_165;#ED6869
+166;Lethem Jonathan;Node_alt_166;#ED6869
+167;Levin Ira;Node_alt_167;#ED6869
+168;Levi Primo;Node_alt_168;#ED6869
+169;Lewis Clive Staples;Node_alt_169;#ED6869
+170;Lewis Roy;Node_alt_170;#ED6869
+171;Lispector Clarice;Node_alt_171;#79C074
+172;London Jack;Node_alt_172;#ED6869
+173;Lovecraft HP;Node_alt_173;#ED6869
+174;Lowry Malcolm;Node_alt_174;#ED6869
+175;Malamud Bernard;Node_alt_175;#ED6869
+176;Malzieu Mathias;Node_alt_176;#ED6869
+177;Mandela Nelson;Node_alt_177;#ED6869
+178;Mann Thomas;Node_alt_178;#ED6869
+179;Márai Sándor;Node_alt_179;#ED6869
+180;Marías Javier;Node_alt_180;#ED6869
+181;Marone Lorenzo;Node_alt_181;#ED6869
+182;Márquez Gabriel García;Node_alt_182;#ED6869
+183;Martel Yann;Node_alt_183;#ED6869
+184;Martin George;Node_alt_184;#ED6869
+185;McCarthy Cormac;Node_alt_185;#ED6869
+186;McCullers Carson;Node_alt_186;#79C074
+187;McEwan Ian;Node_alt_187;#ED6869
+188;McInerney Jay;Node_alt_188;#ED6869
+189;Melville Herman;Node_alt_189;#ED6869
+190;Mercier Pascal;Node_alt_190;#ED6869
+191;Miller Henry;Node_alt_191;#ED6869
+192;Mishima Yukio;Node_alt_192;#ED6869
+193;Mitchell David;Node_alt_193;#ED6869
+194;Mitford Nancy;Node_alt_194;#79C074
+195;Modiano Patrick;Node_alt_195;#ED6869
+196;Morante Elsa;Node_alt_196;#79C074
+197;Moravia Alberto;Node_alt_197;#ED6869
+198;Morrison Toni;Node_alt_198;#79C074
+199;Moshfegh Ottessa;Node_alt_199;#79C074
+200;Moyes Jojo;Node_alt_200;#79C074
+201;Munro Alice;Node_alt_201;#79C074
+202;Murakami Haruki;Node_alt_202;#ED6869
+203;Murgia Michela;Node_alt_203;#79C074
+204;Musil Robert;Node_alt_204;#ED6869
+205;Nabokov Vladimir;Node_alt_205;#ED6869
+206;Nelson Blake;Node_alt_206;#ED6869
+207;Némirovsky Irène;Node_alt_207;#79C074
+208;Adichie Ngozi Chimamanda;Node_alt_208;#79C074
+209;Nicholls David;Node_alt_209;#ED6869
+210;Niffenegger Audrey;Node_alt_210;#79C074
+211;Nin Anaïs;Node_alt_211;#79C074
+212;Nothomb Amélie;Node_alt_212;#79C074
+213;Oates Joyce Carol;Node_alt_213;#79C074
+214;O'Brien Edna;Node_alt_214;#79C074
+215;O'Connor Flannery;Node_alt_215;#79C074
+216;O'Hagan Andrew;Node_alt_216;#ED6869
+217;Ortese Anna Maria;Node_alt_217;#79C074
+218;Orwell George;Node_alt_218;#ED6869
+219;Oz Amos;Node_alt_219;#ED6869
+220;Paasilinna Arto;Node_alt_220;#ED6869
+221;Palacio RJ;Node_alt_221;#79C074
+222;Palahniuk Chuck;Node_alt_222;#ED6869
+223;Pasternak Boris;Node_alt_223;#ED6869
+224;Pavese Cesare;Node_alt_224;#ED6869
+225;Perutz Leo;Node_alt_225;#ED6869
+226;Pessoa Fernando;Node_alt_226;#ED6869
+227;Pirandello Luigi;Node_alt_227;#ED6869
+228;Pirsig Robert;Node_alt_228;#ED6869
+229;Plath Sylvia;Node_alt_229;#79C074
+230;Poe Edgar Allan;Node_alt_230;#ED6869
+231;Pollan Michael;Node_alt_231;#ED6869
+232;Proulx Annie;Node_alt_232;#79C074
+233;Proust Marcel;Node_alt_233;#ED6869
+234;Punke Michael;Node_alt_234;#ED6869
+235;Pynchon Thomas;Node_alt_235;#ED6869
+236;Radiguet Raymond;Node_alt_236;#ED6869
+237;Redfield James;Node_alt_237;#ED6869
+238;Remarque Erich Maria;Node_alt_238;#ED6869
+239;Richler Mordecai;Node_alt_239;#ED6869
+240;Robinson Marilynne;Node_alt_240;#79C074
+241;Rooney Sally;Node_alt_241;#79C074
+242;Rosoff Meg;Node_alt_242;#79C074
+243;Roth Philip;Node_alt_243;#ED6869
+244;Rowell Rainbow;Node_alt_244;#79C074
+245;Rowling JK;Node_alt_245;#79C074
+246;Rushdie Salman;Node_alt_246;#ED6869
+247;Sacks Oliver;Node_alt_247;#ED6869
+248;Sagan Françoise;Node_alt_248;#79C074
+249;Salinger JD;Node_alt_249;#ED6869
+250;Saramago Josè;Node_alt_250;#ED6869
+251;Saunders George;Node_alt_251;#ED6869
+252;Saviano Roberto;Node_alt_252;#ED6869
+253;Schnitzler Arthur;Node_alt_253;#ED6869
+254;Scott Walter;Node_alt_254;#ED6869
+255;Sebald Winfried Georg;Node_alt_255;#ED6869
+256;Sebold Alice;Node_alt_256;#79C074
+257;Sedaris David;Node_alt_257;#ED6869
+258;Simenon Georges;Node_alt_258;#ED6869
+259;Skloot Rebecca;Node_alt_259;#79C074
+260;Smith Martin Cruz;Node_alt_260;#ED6869
+261;Solzhenitsyn Aleksandr;Node_alt_261;#ED6869
+262;Sōseki Natsume;Node_alt_262;#ED6869
+263;Sparks Nicholas;Node_alt_263;#ED6869
+264;Stefansson Jón Kalman;Node_alt_264;#ED6869
+265;Steinbeck John;Node_alt_265;#ED6869
+266;Stendhal Marie-Henri;Node_alt_266;#ED6869
+267;Stevenson Robert Louis;Node_alt_267;#ED6869
+268;Stoker Bram;Node_alt_268;#ED6869
+269;Stroud Carsten;Node_alt_269;#ED6869
+270;Strout Elizabeth;Node_alt_270;#79C074
+271;Süskind Patrick;Node_alt_271;#ED6869
+272;Svevo Italo;Node_alt_272;#ED6869
+273;Swift Jonathan;Node_alt_273;#ED6869
+274;Szabó Magda;Node_alt_274;#79C074
+275;Tabucchi Antonio;Node_alt_275;#ED6869
+276;Takami Koushun;Node_alt_276;#ED6869
+277;Tartt Donna;Node_alt_277;#79C074
+278;Taylor Laini;Node_alt_278;#79C074
+279;Thackeray William Makepeace;Node_alt_279;#ED6869
+280;Thomas Scarlett;Node_alt_280;#79C074
+281;Thompson Harry;Node_alt_281;#ED6869
+282;Thoreau Henry David;Node_alt_282;#ED6869
+283;Tokarczuk Olga;Node_alt_283;#79C074
+284;Tolkien JRR;Node_alt_284;#ED6869
+285;Tolstoy Leo;Node_alt_285;#ED6869
+286;Turgenev Ivan;Node_alt_286;#ED6869
+287;Twain Mark;Node_alt_287;#ED6869
+288;Uhlman Fred;Node_alt_288;#ED6869
+289;Vargas Fred;Node_alt_289;#79C074
+290;Verne Jules;Node_alt_290;#ED6869
+291;Vian Boris;Node_alt_291;#ED6869
+292;Vila-Matas Enrique;Node_alt_292;#ED6869
+293;Vinci Simona;Node_alt_293;#79C074
+294;Vonnegut Kurt;Node_alt_294;#ED6869
+295;de Waal Edmund;Node_alt_295;#ED6869
+296;Walker Alice;Node_alt_296;#79C074
+297;Wallace David Foster;Node_alt_297;#ED6869
+298;Waller Robert James;Node_alt_298;#ED6869
+299;Walpole Horace;Node_alt_299;#ED6869
+300;Waters Sarah;Node_alt_300;#79C074
+301;West Nathanael;Node_alt_301;#ED6869
+302;Westover Tara;Node_alt_302;#79C074
+303;West Rebecca;Node_alt_303;#79C074
+304;Wharton Edith;Node_alt_304;#79C074
+305;Wiesel Elie;Node_alt_305;#ED6869
+306;Wilde Oscar;Node_alt_306;#ED6869
+307;Williams John;Node_alt_307;#ED6869
+308;Winslow Don;Node_alt_308;#ED6869
+309;Winterson Jeanette;Node_alt_309;#79C074
+310;Wollstonecraft Mary;Node_alt_310;#79C074
+311;Woolf Virginia;Node_alt_311;#79C074
+312;Yanagihara Hanya;Node_alt_312;#79C074
+313;Yates Richard;Node_alt_313;#ED6869
+314;Yoshimoto Banana;Node_alt_314;#79C074
+315;Yourcenar Marguerite;Node_alt_315;#79C074
+316;Zafón Carlos Ruiz;Node_alt_316;#ED6869
+317;Zola Émile;Node_alt_317;#ED6869
+318;Le Guin Ursula;Node_alt_318;#79C074
+319;Sturgeon Theodore;Node_alt_319;#ED6869
+320;Alderman Naomi;Node_alt_320;#79C074
+321;McMurtry Larry;Node_alt_321;#ED6869
+322;Läckberg Camilla;Node_alt_322;#79C074
+323;Abdolah Kader;Node_alt_323;#ED6869
+324;Abulhawa Susan;Node_alt_324;#79C074
+325;Achebe Chinua;Node_alt_325;#ED6869
+326;Adébáyò Ayòbámi;Node_alt_326;#79C074
+327;Adiga Aravind;Node_alt_327;#ED6869
+328;Agnon Shmuel Yosef;Node_alt_328;#ED6869
+329;Agualusa Josè Eduardo;Node_alt_329;#ED6869
+330;Akunin Boris;Node_alt_330;#ED6869
+331;Alarcón Daniel;Node_alt_331;#ED6869
+332;Aleksievič Svetlana;Node_alt_332;#79C074
+333;Alem Raja'a;Node_alt_333;#79C074
+334;Ali Sabahattin;Node_alt_334;#ED6869
+335;Amado Jorge;Node_alt_335;#ED6869
+336;Anand Mulk Râj;Node_alt_336;#ED6869
+337;Anderson Poul;Node_alt_337;#ED6869
+338;Antunes António Lobo;Node_alt_338;#ED6869
+339;Anwar Arif;Node_alt_339;#ED6869
+340;Anyi Wang;Node_alt_340;#79C074
+341;Appelfeld Aharon;Node_alt_341;#ED6869
+342;Aramburu Fernando;Node_alt_342;#ED6869
+343;Arguedas José María;Node_alt_343;#ED6869
+344;Arlt Roberto;Node_alt_344;#ED6869
+345;Atogun Odafe;Node_alt_345;#ED6869
+346;Aw Tash;Node_alt_346;#ED6869
+347;Aziz Abdel Basma;Node_alt_347;#79C074
+348;Azuela Mariano;Node_alt_348;#ED6869
+349;Badani Sejal;Node_alt_349;#79C074
+350;Barrett Igoni A;Node_alt_350;#ED6869
+351;Batalha Martha;Node_alt_351;#79C074
+352;Beah Ishmael;Node_alt_352;#ED6869
+353;Beckett Samuel;Node_alt_353;#ED6869
+354;Belli Gioconda;Node_alt_354;#79C074
+355;Benmalek Anouar;Node_alt_355;#ED6869
+356;Berberova Nina Nikolaevna;Node_alt_356;#79C074
+357;Binebine Mahi;Node_alt_357;#ED6869
+358;Blixen Karen;Node_alt_358;#79C074
+359;Bodrožić Ivana;Node_alt_359;#79C074
+360;Böll Heinrich;Node_alt_360;#ED6869
+361;Borgo Sainz Karina;Node_alt_361;#79C074
+362;Bradley Alan;Node_alt_362;#ED6869
+363;Brooks Geraldine;Node_alt_363;#79C074
+364;Brooks Terry;Node_alt_364;#ED6869
+365;Brown Daniel;Node_alt_365;#ED6869
+366;Burroughs William S;Node_alt_366;#ED6869
+367;Caldwell Erskine;Node_alt_367;#ED6869
+368;Canetti Elias;Node_alt_368;#ED6869
+369;Carey Peter;Node_alt_369;#ED6869
+370;Carpentier Alejo;Node_alt_370;#ED6869
+371;Cărtărescu Mircea;Node_alt_371;#ED6869
+372;Casares Adolfo Bioy;Node_alt_372;#ED6869
+373;Castaneda Carlos;Node_alt_373;#ED6869
+374;Cave Nick;Node_alt_374;#ED6869
+375;Cela Camilo José;Node_alt_375;#ED6869
+376;Cercas Javier;Node_alt_376;#ED6869
+377;Chandra Vikram;Node_alt_377;#ED6869
+378;Chang Jung;Node_alt_378;#79C074
+379;Chavarría Daniel;Node_alt_379;#ED6869
+380;Guevara Ernesto;Node_alt_380;#ED6869
+381;Cixin Liu;Node_alt_381;#ED6869
+382;Clancy Tom;Node_alt_382;#ED6869
+383;Clark Georgia;Node_alt_383;#79C074
+384;Cobb Humphrey;Node_alt_384;#ED6869
+385;Cole Teju;Node_alt_385;#ED6869
+386;Coloane Francisco;Node_alt_386;#ED6869
+387;Correa Armando Lucas;Node_alt_387;#ED6869
+388;Cortázar Julio;Node_alt_388;#ED6869
+389;Cossery Albert;Node_alt_389;#ED6869
+390;Couto Mia;Node_alt_390;#ED6869
+391;Crane Stephen;Node_alt_391;#ED6869
+392;Dahl Roald;Node_alt_392;#ED6869
+393;Dalton Trent;Node_alt_393;#ED6869
+394;d'Annunzio Gabriele;Node_alt_394;#ED6869
+395;De Amicis Edmondo;Node_alt_395;#ED6869
+396;de Balzac Honoré;Node_alt_396;#ED6869
+397;de Beauvoir Simone;Node_alt_397;#79C074
+398;Deledda Grazia;Node_alt_398;#79C074
+399;Delijani Sahar;Node_alt_399;#79C074
+400;De Pontes Peebles Frances;Node_alt_400;#79C074
+401;de Sade Marquis;Node_alt_401;#ED6869
+402;Desai Anita;Node_alt_402;#79C074
+403;Díaz Junot;Node_alt_403;#ED6869
+404;Dirie Waris;Node_alt_404;#79C074
+405;Divakaruni Chitra Banerjee;Node_alt_405;#79C074
+406;Djebar Assia;Node_alt_406;#79C074
+407;Doshi Tishani;Node_alt_407;#79C074
+408;Douaihy Jabbour;Node_alt_408;#ED6869
+409;Dovlatov Sergei;Node_alt_409;#ED6869
+410;Dueñas María;Node_alt_410;#79C074
+411;Emezi Akwaeke;Node_alt_411;#79C074
+412;Endō Shūsaku;Node_alt_412;#ED6869
+413;Twan Eng Tan;Node_alt_413;#ED6869
+414;Enríquez Mariana;Node_alt_414;#79C074
+415;Ernaux Annie;Node_alt_415;#79C074
+416;Erpenbeck Jenny;Node_alt_416;#79C074
+417;Escobar Melba;Node_alt_417;#79C074
+418;Esquivel Laura;Node_alt_418;#79C074
+419;Eteraz Ali;Node_alt_419;#ED6869
+420;Ferguson Will;Node_alt_420;#ED6869
+421;Flanagan Richard;Node_alt_421;#ED6869
+422;Fogazzaro Antonio;Node_alt_422;#ED6869
+423;Foroutan Parnaz;Node_alt_423;#79C074
+424;Fraillon Zana;Node_alt_424;#79C074
+425;Frame Janet;Node_alt_425;#79C074
+426;France Anatole;Node_alt_426;#ED6869
+427;Fuentes Carlos;Node_alt_427;#ED6869
+428;Gallmann Kuki;Node_alt_428;#79C074
+429;Gamboa Santiago;Node_alt_429;#ED6869
+430;Gappah Petina;Node_alt_430;#79C074
+431;Ghosh Amitav;Node_alt_431;#ED6869
+432;Glass Emma;Node_alt_432;#79C074
+433;Gordimer Nadine;Node_alt_433;#79C074
+434;Grenville Kate;Node_alt_434;#79C074
+435;Grimm Jacob Wilhelm;Node_alt_435;#ED6869
+436;Grisham John;Node_alt_436;#ED6869
+437;Grossman David;Node_alt_437;#ED6869
+438;Grossman Vasily;Node_alt_438;#ED6869
+439;Gundar-Goshen Ayelet;Node_alt_439;#79C074
+440;Gyasi Yaa;Node_alt_440;#79C074
+441;El Hachmi Najat;Node_alt_441;#79C074
+442;Hammett Dashiell;Node_alt_442;#ED6869
+443;Hampson Amanda;Node_alt_443;#79C074
+444;Ham Rosalie;Node_alt_444;#79C074
+445;Handke Peter;Node_alt_445;#ED6869
+446;Hartnett Sonya;Node_alt_446;#79C074
+447;Hawthorne Nathaniel;Node_alt_447;#ED6869
+448;Hay Ashley;Node_alt_448;#79C074
+449;Hedayat Sadeq;Node_alt_449;#ED6869
+450;Heng Rachel;Node_alt_450;#79C074
+451;Hepworth Sally;Node_alt_451;#79C074
+452;Hirata Andrea;Node_alt_452;#ED6869
+453;Høeg Peter;Node_alt_453;#ED6869
+454;Howard Robert;Node_alt_454;#ED6869
+455;Hua Yu;Node_alt_455;#ED6869
+456;Hubbard Ron;Node_alt_456;#ED6869
+457;Ibrahim Djamila;Node_alt_457;#79C074
+458;Irving Washington;Node_alt_458;#ED6869
+459;James EL;Node_alt_459;#79C074
+460;Jebreal Rula;Node_alt_460;#79C074
+461;Jian Ma;Node_alt_461;#ED6869
+462;Johnson Uwe;Node_alt_462;#ED6869
+463;Jones Diana;Node_alt_463;#79C074
+464;Jordan Toni;Node_alt_464;#79C074
+465;Jufresa Laia;Node_alt_465;#79C074
+466;Jünger Ernst;Node_alt_466;#ED6869
+467;Kakuta Mitsuyo;Node_alt_467;#79C074
+468;Kandasamy Meena;Node_alt_468;#79C074
+469;Kan Karoline;Node_alt_469;#79C074
+470;Kawaguchi Toshikazu;Node_alt_470;#ED6869
+471;Kawakami Mieko;Node_alt_471;#79C074
+472;Kazantzakis Nikos;Node_alt_472;#ED6869
+473;Kehlmann Daniel;Node_alt_473;#ED6869
+474;Kent Hannah;Node_alt_474;#79C074
+475;Kertész Imre;Node_alt_475;#ED6869
+476;Khadra Yasmina;Node_alt_476;#ED6869
+477;Khal Abdo;Node_alt_477;#ED6869
+478;Khalifa Khaled;Node_alt_478;#ED6869
+479;Un-su Kim;Node_alt_479;#ED6869
+480;Kincaid Jamaica;Node_alt_480;#79C074
+481;Kirino Natsuo;Node_alt_481;#79C074
+482;Krien Daniela;Node_alt_482;#79C074
+483;Kulin Ayşe;Node_alt_483;#79C074
+484;Kureishi Hanif;Node_alt_484;#ED6869
+485;Kurniawan Eka;Node_alt_485;#ED6869
+486;Lange Norah;Node_alt_486;#79C074
+487;Lapena Shari;Node_alt_487;#79C074
+488;Lawrence DH;Node_alt_488;#ED6869
+489;Laxness Halldór;Node_alt_489;#ED6869
+490;Lee Jung-Myung;Node_alt_490;#ED6869
+491;Lee Krys;Node_alt_491;#79C074
+492;Lemebel Pedro;Node_alt_492;#ED6869
+493;Lessing Doris;Node_alt_493;#79C074
+494;Lewis Sinclair;Node_alt_494;#ED6869
+495;Lianke Yan;Node_alt_495;#ED6869
+496;Lilin Nicolai;Node_alt_496;#ED6869
+497;Link Charlotte;Node_alt_497;#79C074
+498;Vargas Llosa Mario;Node_alt_498;#ED6869
+499;Loe Erlend;Node_alt_499;#ED6869
+500;Lokko Lesley;Node_alt_500;#79C074
+501;Luiselli Valeria;Node_alt_501;#79C074
+502;Maalouf Amin;Node_alt_502;#ED6869
+503;Maarouf Mazen;Node_alt_503;#ED6869
+504;Mabanckou Alain;Node_alt_504;#ED6869
+505;Machen Arthur;Node_alt_505;#ED6869
+506;Mahfuz Nagib;Node_alt_506;#ED6869
+507;Mailer Norman;Node_alt_507;#ED6869
+508;Ling Ma;Node_alt_508;#79C074
+509;Malouf David;Node_alt_509;#ED6869
+510;Manicka Rani;Node_alt_510;#79C074
+511;Mansfield Katherine;Node_alt_511;#79C074
+512;Manta Lena;Node_alt_512;#79C074
+513;Manzoni Alessandro;Node_alt_513;#ED6869
+514;Maraini Dacia;Node_alt_514;#79C074
+515;Markandaya Kamala;Node_alt_515;#79C074
+516;Martínez Guillermo;Node_alt_516;#ED6869
+517;Matlwa Kopano;Node_alt_517;#79C074
+518;Matsumoto Seichō;Node_alt_518;#ED6869
+519;Somerset William;Node_alt_519;#ED6869
+520;du Maurier Daphne;Node_alt_520;#79C074
+521;Mbue Imbolo;Node_alt_521;#79C074
+522;McCullough Colleen;Node_alt_522;#79C074
+523;Mda Zakes;Node_alt_523;#ED6869
+524;Mehran Marsha;Node_alt_524;#79C074
+525;Mengestu Dinaw;Node_alt_525;#ED6869
+526;Mengiste Maaza;Node_alt_526;#79C074
+527;Mernissi Fatima;Node_alt_527;#79C074
+528;Meyer Deon;Node_alt_528;#ED6869
+529;Meyer Stephenie;Node_alt_529;#79C074
+530;Millar Margaret;Node_alt_530;#79C074
+531;Minato Kanae;Node_alt_531;#79C074
+532;Monge Emiliano;Node_alt_532;#ED6869
+533;Montalbán Manuel;Node_alt_533;#ED6869
+534;Morgan Sally;Node_alt_534;#79C074
+535;Moriarty Liane;Node_alt_535;#79C074
+536;Morris Heather;Node_alt_536;#79C074
+537;Morton Kate;Node_alt_537;#79C074
+538;Mukherjee Neel;Node_alt_538;#ED6869
+539;Müller Herta;Node_alt_539;#79C074
+540;Murakami Ryū;Node_alt_540;#ED6869
+541;Murata Sayaka;Node_alt_541;#79C074
+542;Nafisi Azar;Node_alt_542;#79C074
+543;Naipaul VS;Node_alt_543;#ED6869
+544;Nair Anita;Node_alt_544;#79C074
+545;Nettel Guadalupe;Node_alt_545;#79C074
+546;Neuman Andrés;Node_alt_546;#ED6869
+547;Nevo Eshkol;Node_alt_547;#ED6869
+548;Nievo Ippolito;Node_alt_548;#ED6869
+549;Noah Trevor;Node_alt_549;#ED6869
+550;Obioma Chigozie;Node_alt_550;#ED6869
+551;Ōe Kenzaburō;Node_alt_551;#ED6869
+552;Ogawa Yōko;Node_alt_552;#79C074
+553;Ohanesian Aline;Node_alt_553;#79C074
+554;Omotoso Yewande;Node_alt_554;#79C074
+555;Onuzo Chibundu;Node_alt_555;#79C074
+556;Orga Irfan;Node_alt_556;#ED6869
+557;Oyeyemi Helen;Node_alt_557;#79C074
+558;Pacat CS;Node_alt_558;#79C074
+559;Pamuk Orhan;Node_alt_559;#ED6869
+560;Park Yeonmi;Node_alt_560;#79C074
+561;Passarlay Gulwali;Node_alt_561;#ED6869
+562;Passos John Dos;Node_alt_562;#ED6869
+563;Patterson James;Node_alt_563;#ED6869
+564;Pelevin Victor;Node_alt_564;#ED6869
+565;Pennac Daniel;Node_alt_565;#ED6869
+566;Perec Georges;Node_alt_566;#ED6869
+567;Pérez-Reverte Arturo;Node_alt_567;#ED6869
+568;Piglia Ricardo;Node_alt_568;#ED6869
+569;Piñeiro Claudia;Node_alt_569;#79C074
+570;Platonov Andrei;Node_alt_570;#ED6869
+571;Queneau Raymond;Node_alt_571;#ED6869
+572;El Rashidi Yasmine;Node_alt_572;#79C074
+573;Revueltas José;Node_alt_573;#ED6869
+574;Reyes Emma;Node_alt_574;#79C074
+575;Ringland Holly;Node_alt_575;#79C074
+576;Roberts Gregory;Node_alt_576;#ED6869
+577;Roberts Nora;Node_alt_577;#79C074
+578;Roncagliolo Santiago;Node_alt_578;#ED6869
+579;Roy Arundhati;Node_alt_579;#79C074
+580;Rulfo Juan;Node_alt_580;#ED6869
+581;al-Sa'dawi Nawal;Node_alt_581;#79C074
+582;Sabato Ernesto;Node_alt_582;#ED6869
+583;Sacheri Eduardo;Node_alt_583;#ED6869
+584;Sakuraba Kazuki;Node_alt_584;#79C074
+585;Salih Tayeb;Node_alt_585;#ED6869
+586;Salmawy Mohamed;Node_alt_586;#ED6869
+587;Sánchez Clara;Node_alt_587;#79C074
+588;Sansal Boualem;Node_alt_588;#ED6869
+589;Sapienza Goliarda;Node_alt_589;#79C074
+590;Sartre Jean-Paul;Node_alt_590;#ED6869
+591;Schami Rafik;Node_alt_591;#ED6869
+592;Schätzing Frank;Node_alt_592;#ED6869
+593;Schweblin Samanta;Node_alt_593;#79C074
+594;Sciascia Leonardo;Node_alt_594;#ED6869
+595;Seghers Anna;Node_alt_595;#79C074
+596;Sendker Jan-Philipp;Node_alt_596;#ED6869
+597;Seth Vikram;Node_alt_597;#ED6869
+598;Shafak Elif;Node_alt_598;#79C074
+599;Shalamov Varlam;Node_alt_599;#ED6869
+600;Shalev Meir;Node_alt_600;#ED6869
+601;Shalev Zeruya;Node_alt_601;#79C074
+602;Shamsie Kamila;Node_alt_602;#79C074
+603;Shanbhag Vivek;Node_alt_603;#ED6869
+604;She Lao;Node_alt_604;#ED6869
+605;Shin Kyung-sook;Node_alt_605;#79C074
+606;Shoneyin Lola;Node_alt_606;#79C074
+607;Yoshida Shūichi;Node_alt_607;#ED6869
+608;Sidhwa Bapsi;Node_alt_608;#79C074
+609;Simsion Graeme;Node_alt_609;#ED6869
+610;Singer Isaac;Node_alt_610;#ED6869
+611;Singh Khushwant;Node_alt_611;#ED6869
+612;Slimani Leïla;Node_alt_612;#79C074
+613;Hwang Sok-yong;Node_alt_613;#ED6869
+614;Sholokhov Mikhail;Node_alt_614;#ED6869
+615;Sönmez Burhan;Node_alt_615;#ED6869
+616;Souad Souad;Node_alt_616;#79C074
+617;Soyinka Wole;Node_alt_617;#ED6869
+618;Stein Gertrude;Node_alt_618;#79C074
+619;St John Madeleine;Node_alt_619;#79C074
+620;Stowe Harriet;Node_alt_620;#79C074
+621;Sukegawa Durian;Node_alt_621;#ED6869
+622;Suzuki Kōji;Node_alt_622;#ED6869
+623;Swarup Vikas;Node_alt_623;#ED6869
+624;Taibo II Paco Ignacio;Node_alt_624;#ED6869
+625;Takagi Akimitsu;Node_alt_625;#ED6869
+626;Tanizaki Jun'ichirō;Node_alt_626;#ED6869
+627;Tanpınar Ahmet Hamdi;Node_alt_627;#ED6869
+628;Tawada Yoko;Node_alt_628;#79C074
+629;Teo Sharlene;Node_alt_629;#79C074
+630;Thiong'o Ngũgĩ wa;Node_alt_630;#ED6869
+631;Thúy Kim;Node_alt_631;#79C074
+632;Toews Miriam;Node_alt_632;#79C074
+633;Travers PL;Node_alt_633;#79C074
+634;Tsiolkas Christos;Node_alt_634;#ED6869
+635;Tutuola Amos;Node_alt_635;#ED6869
+636;Ung Loung;Node_alt_636;#79C074
+637;van Niekerk Marlene;Node_alt_637;#79C074
+638;Vásquez Juan Gabriel;Node_alt_638;#ED6869
+639;Verga Giovanni;Node_alt_639;#ED6869
+640;Viggers Karen;Node_alt_640;#79C074
+641;von Arnim Elizabeth;Node_alt_641;#79C074
+642;von Kleist Heinrich;Node_alt_642;#ED6869
+643;Wainaina Binyavanga;Node_alt_643;#ED6869
+644;Wamariya Clemantine;Node_alt_644;#79C074
+645;Wataya Risa;Node_alt_645;#79C074
+646;West Morris;Node_alt_646;#ED6869
+647;White Patrick;Node_alt_647;#ED6869
+648;Wilder Thornton;Node_alt_648;#ED6869
+649;Winton Tim;Node_alt_649;#ED6869
+650;Witting Amy;Node_alt_650;#79C074
+651;Wolf Christa;Node_alt_651;#79C074
+652;Xiaolong Qiu;Node_alt_652;#ED6869
+653;Xilonen Aura;Node_alt_653;#79C074
+654;Xingjian Gao;Node_alt_654;#ED6869
+655;Xueqin Cao;Node_alt_655;#ED6869
+656;Yan Mo;Node_alt_656;#ED6869
+657;Yehoshua Abraham;Node_alt_657;#ED6869
+658;Yousafzai Malala;Node_alt_658;#79C074
+659;Zail Suzy;Node_alt_659;#79C074
+660;Zusak Markus;Node_alt_660;#ED6869
+661;Zweig Stefan;Node_alt_661;#ED6869
+662;Achaari Mohammed;Node_alt_662;#ED6869
+663;Adams Douglas;Node_alt_663;#ED6869
+664;Adams Richard;Node_alt_664;#ED6869
+665;Ahmad Jamil;Node_alt_665;#ED6869
+666;Aira César;Node_alt_666;#ED6869
+667;El Akkad Omar;Node_alt_667;#ED6869
+668;Akutagawa Ryunosuke;Node_alt_668;#ED6869
+669;Altan Ahmet;Node_alt_669;#ED6869
+670;Alvarez Julia;Node_alt_670;#79C074
+671;Amis Kingsley;Node_alt_671;#ED6869
+672;Anappara Deepa;Node_alt_672;#79C074
+673;Andrews VC;Node_alt_673;#79C074
+674;Angelou Maya;Node_alt_674;#79C074
+675;Ansay A. Manette;Node_alt_675;#79C074
+676;Archer Jeffrey;Node_alt_676;#ED6869
+677;de Assis Machado Joaquim Maria;Node_alt_677;#ED6869
+678;Bach Richard;Node_alt_678;#ED6869
+679;Baldwin James;Node_alt_679;#ED6869
+680;Banville John;Node_alt_680;#ED6869
+681;Barker Pat;Node_alt_681;#79C074
+682;Barnes Djuna;Node_alt_682;#79C074
+683;Barrie James Matthew;Node_alt_683;#ED6869
+684;Beatty Paul;Node_alt_684;#ED6869
+685;Benchley Peter;Node_alt_685;#ED6869
+686;Benedetti Mario;Node_alt_686;#ED6869
+687;Binchy Maeve;Node_alt_687;#79C074
+688;Blatty William;Node_alt_688;#ED6869
+689;Bloch Robert;Node_alt_689;#ED6869
+690;Blyton Enid;Node_alt_690;#79C074
+691;Braddon Mary;Node_alt_691;#79C074
+692;Bradley Marion;Node_alt_692;#79C074
+693;Brink Andre;Node_alt_693;#ED6869
+694;Bromfield Louis;Node_alt_694;#ED6869
+695;Brontë Anne;Node_alt_695;#79C074
+696;Brookner Anita;Node_alt_696;#79C074
+697;Brown Fredric;Node_alt_697;#ED6869
+698;Buarque Chico;Node_alt_698;#ED6869
+699;Buchan John;Node_alt_699;#ED6869
+700;Buck Pearl S.;Node_alt_700;#79C074
+701;Burney Frances;Node_alt_701;#79C074
+702;Burns Anna;Node_alt_702;#79C074
+703;Burroughs Edgar;Node_alt_703;#ED6869
+704;Butler Samuel;Node_alt_704;#ED6869
+705;Buzzati Dino;Node_alt_705;#ED6869
+706;Campbell John;Node_alt_706;#ED6869
+707;Catton Eleanor;Node_alt_707;#79C074
+708;Celine Louis Ferdinand;Node_alt_708;#ED6869
+709;Charriere Henri;Node_alt_709;#ED6869
+710;Chopin Kate;Node_alt_710;#79C074
+711;Clark Mary;Node_alt_711;#79C074
+712;Clavell James;Node_alt_712;#ED6869
+713;Cleland John;Node_alt_713;#ED6869
+714;Collins Suzanne;Node_alt_714;#79C074
+715;Collins Wilkie;Node_alt_715;#ED6869
+716;Dazai Osamu;Node_alt_716;#ED6869
+717;Defoe Daniel;Node_alt_717;#ED6869
+718;de Roberto Federico;Node_alt_718;#ED6869
+719;Döblin Alfred;Node_alt_719;#ED6869
+720;Doctorow EL;Node_alt_720;#ED6869
+721;Doerr Anthony;Node_alt_721;#ED6869
+722;Donleavy JP;Node_alt_722;#ED6869
+723;Douglass Frederick;Node_alt_723;#ED6869
+724;Doxiadis Apostolos;Node_alt_724;#ED6869
+725;Doyle Roddy;Node_alt_725;#ED6869
+726;Edgeworth Maria;Node_alt_726;#79C074
+727;Ellison Ralph;Node_alt_727;#ED6869
+728;Emecheta Buchi;Node_alt_728;#79C074
+729;Ende Michael;Node_alt_729;#ED6869
+730;Evans Nicholas;Node_alt_730;#ED6869
+731;Evaristo Bernardine;Node_alt_731;#79C074
+732;Fallaci Oriana;Node_alt_732;#79C074
+733;Farrell James Gordon;Node_alt_733;#ED6869
+734;Faye Gaël;Node_alt_734;#ED6869
+735;Feiyu Bi;Node_alt_735;#ED6869
+736;Melchor Fernanda;Node_alt_736;#79C074
+737;Fielding Henry;Node_alt_737;#ED6869
+738;Fitch Janet;Node_alt_738;#79C074
+739;Fitzgerald Penelope;Node_alt_739;#79C074
+740;Fontane Theodor;Node_alt_740;#ED6869
+741;Forster Edward Morgan;Node_alt_741;#ED6869
+742;Forsyth Frederick;Node_alt_742;#ED6869
+743;Fowles John;Node_alt_743;#ED6869
+744;Freeman Ru;Node_alt_744;#79C074
+745;Frey James;Node_alt_745;#ED6869
+746;Gaarder Jostein;Node_alt_746;#ED6869
+747;Gaddis William;Node_alt_747;#ED6869
+748;Galdos Benito Perez;Node_alt_748;#ED6869
+749;Gardner Erle Stanley;Node_alt_749;#ED6869
+750;Gaskell Elizabeth;Node_alt_750;#79C074
+751;Genet Jean;Node_alt_751;#ED6869
+752;Glasgow Ellen;Node_alt_752;#79C074
+753;Glyn Elinor;Node_alt_753;#79C074
+754;Goldsmith Oliver;Node_alt_754;#ED6869
+755;Grahame Kenneth;Node_alt_755;#ED6869
+756;Greer Andrew Sean;Node_alt_756;#ED6869
+757;Gurnah Abdulrazak;Node_alt_757;#ED6869
+758;Hachtroudi Fariba;Node_alt_758;#79C074
+759;Haggard Rider;Node_alt_759;#ED6869
+760;Haley Alex;Node_alt_760;#ED6869
+761;Halfon Eduardo;Node_alt_761;#ED6869
+762;Haratischwili Nino;Node_alt_762;#79C074
+763;Harding Paul;Node_alt_763;#ED6869
+764;Hašek Jaroslav;Node_alt_764;#ED6869
+765;Hegi Ursula;Node_alt_765;#79C074
+766;Heinlein Robert A.;Node_alt_766;#ED6869
+767;Heller Joseph;Node_alt_767;#ED6869
+768;Herbert Frank;Node_alt_768;#ED6869
+769;Herlihy James;Node_alt_769;#ED6869
+770;Hernandez Felisberto;Node_alt_770;#ED6869
+771;Herrera Yuri;Node_alt_771;#ED6869
+772;Heyer Georgette;Node_alt_772;#79C074
+773;Higgins Jack;Node_alt_773;#ED6869
+774;Hilton James;Node_alt_774;#ED6869
+775;Hinton SE;Node_alt_775;#79C074
+776;Hollinghurst Alan;Node_alt_776;#ED6869
+777;Hume Fergus;Node_alt_777;#ED6869
+778;Hustvedt Siri;Node_alt_778;#79C074
+779;Jacobson Howard;Node_alt_779;#ED6869
+780;James Marlon;Node_alt_780;#79C074
+781;Jelloun Tahar Ben;Node_alt_781;#ED6869
+782;Jhabvala Ruth Prawer;Node_alt_782;#79C074
+783;Jong Erica;Node_alt_783;#79C074
+784;Kadare Ismail;Node_alt_784;#ED6869
+785;Kawakami Hiromi;Node_alt_785;#79C074
+786;Kennedy William;Node_alt_786;#ED6869
+787;Kerr Judith;Node_alt_787;#79C074
+788;Khoury Elias;Node_alt_788;#ED6869
+789;Kingsolver Barbara;Node_alt_789;#79C074
+790;Koestler Arthur;Node_alt_790;#ED6869
+791;Koonchung Chan;Node_alt_791;#79C074
+792;Kuang RF;Node_alt_792;#79C074
+793;Kwan Kevin;Node_alt_793;#ED6869
+794;Lagerkvist Pär;Node_alt_794;#ED6869
+795;Lagerlöf Selma;Node_alt_795;#79C074
+796;LeBlanc Maurice;Node_alt_796;#ED6869
+797;Le Fanu Sheridan;Node_alt_797;#ED6869
+798;L'Engle Madeleine;Node_alt_798;#79C074
+799;Lermontov Mikhail;Node_alt_799;#ED6869
+800;Leskov Nikolai;Node_alt_800;#ED6869
+801;Lively Penelope;Node_alt_801;#79C074
+802;Li Yiyun;Node_alt_802;#79C074
+803;Lowry Lois;Node_alt_803;#79C074
+804;Lurie Alison;Node_alt_804;#79C074
+805;MacDonald Ann-Marie;Node_alt_805;#79C074
+806;Mai Que Nguyễn Phan;Node_alt_806;#79C074
+807;Majumdar Megha;Node_alt_807;#79C074
+808;Makumbi Nansubuga Jennifer;Node_alt_808;#79C074
+809;Mantel Hilary;Node_alt_809;#79C074
+810;Puzo Mario;Node_alt_810;#ED6869
+811;Markaris Petros;Node_alt_811;#ED6869
+812;Matar Hisham;Node_alt_812;#ED6869
+813;Maturin Charles;Node_alt_813;#ED6869
+814;McCourt Frank;Node_alt_814;#ED6869
+815;McLeod Cynthia;Node_alt_815;#79C074
+816;Metalious Grace;Node_alt_816;#79C074
+817;Millhauser Steven;Node_alt_817;#ED6869
+818;Mitchell Margaret;Node_alt_818;#79C074
+819;Miyabe Miyuki;Node_alt_819;#79C074
+820;Montgomery LM;Node_alt_820;#79C074
+821;Mulisch Harry;Node_alt_821;#ED6869
+822;Warren Patricia;Node_alt_822;#79C074
+823;Nelson Maggie;Node_alt_823;#79C074
+824;Nguyen Viet Thanh;Node_alt_824;#ED6869
+825;Ondaatje Michael;Node_alt_825;#ED6869
+826;Oppenheim Edward Phillips;Node_alt_826;#ED6869
+827;Orczy Emma;Node_alt_827;#79C074
+828;Ozeki Ruth;Node_alt_828;#79C074
+829;Parkin Gaile;Node_alt_829;#79C074
+830;Pasolini Pier Paolo;Node_alt_830;#ED6869
+831;Bowles Paul;Node_alt_831;#ED6869
+832;Pierre DBC;Node_alt_832;#ED6869
+833;Powers Richard;Node_alt_833;#ED6869
+834;Puig Manuel;Node_alt_834;#ED6869
+835;Queen Ellery;Node_alt_835;#ED6869
+836;Radcliffe Ann;Node_alt_836;#79C074
+837;Rahimi Atiq;Node_alt_837;#ED6869
+838;Rawlings Marjorie Kinnan;Node_alt_838;#79C074
+839;Reage Pauline;Node_alt_839;#79C074
+840;Reeve Clara;Node_alt_840;#79C074
+841;Renault Mary;Node_alt_841;#79C074
+842;Rendell Ruth;Node_alt_842;#79C074
+843;Restrepo Laura;Node_alt_843;#79C074
+844;Rhys Jean;Node_alt_844;#79C074
+845;Rice Anne;Node_alt_845;#79C074
+846;Richardson Samuel;Node_alt_846;#ED6869
+847;Robbins Harold;Node_alt_847;#ED6869
+848;Rogers Rosemary;Node_alt_848;#79C074
+849;Rong Jiang;Node_alt_849;#ED6869
+850;Roth Joseph;Node_alt_850;#ED6869
+851;Roth Veronica;Node_alt_851;#79C074
+852;Russo Meredith;Node_alt_852;#79C074
+853;Russo Richard;Node_alt_853;#ED6869
+854;Sabatini Rafael;Node_alt_854;#ED6869
+855;Sand George;Node_alt_855;#79C074
+856;Schlink Bernhard;Node_alt_856;#ED6869
+857;Schwarz Christina;Node_alt_857;#79C074
+858;Segal Erich;Node_alt_858;#ED6869
+859;Selasi Taiye;Node_alt_859;#79C074
+860;Selvadurai Shyam;Node_alt_860;#ED6869
+861;Sewell Anna;Node_alt_861;#79C074
+862;Sharp Margery;Node_alt_862;#79C074
+863;Sheldon Sidney;Node_alt_863;#ED6869
+864;Shields Carol;Node_alt_864;#79C074
+865;Shimada Soji;Node_alt_865;#ED6869
+866;Shreve Anita;Node_alt_866;#79C074
+867;Sienkiewicz Henryk;Node_alt_867;#ED6869
+868;Smith Zadie;Node_alt_868;#79C074
+869;Sontag Susan;Node_alt_869;#79C074
+870;Spyri Johanna;Node_alt_870;#79C074
+871;Stegner Wallace;Node_alt_871;#ED6869
+872;Sterne Laurence;Node_alt_872;#ED6869
+873;Stockett Kathryn;Node_alt_873;#79C074
+874;Stone Irving;Node_alt_874;#ED6869
+875;Stout Rex;Node_alt_875;#ED6869
+876;Stuart Douglas;Node_alt_876;#ED6869
+877;Styron William;Node_alt_877;#ED6869
+878;Tagore Rabindranath;Node_alt_878;#ED6869
+879;Tarkington Booth;Node_alt_879;#ED6869
+880;Tarttelin Abigail;Node_alt_880;#79C074
+881;Thirkell Angela;Node_alt_881;#79C074
+882;Toole John Kennedy;Node_alt_882;#ED6869
+883;Townsend Sue;Node_alt_883;#79C074
+884;Trollope Anthony;Node_alt_884;#ED6869
+885;Tucker Wilson;Node_alt_885;#ED6869
+886;Tyler Anne;Node_alt_886;#79C074
+887;Tyszka Alberto Barrera;Node_alt_887;#ED6869
+888;Updike John;Node_alt_888;#ED6869
+889;Van Dine SS;Node_alt_889;#ED6869
+890;Vidal Gore;Node_alt_890;#ED6869
+891;Villalobos Juan Pablo;Node_alt_891;#ED6869
+892;Novalis Novalis;Node_alt_892;#ED6869
+893;Wallace Lew;Node_alt_893;#ED6869
+894;Walser Robert;Node_alt_894;#ED6869
+895;Wambaugh Joseph;Node_alt_895;#ED6869
+896;Wells HG;Node_alt_896;#ED6869
+897;Welty Eudora;Node_alt_897;#79C074
+898;Westlake Donald;Node_alt_898;#ED6869
+899;Whitehead Colson;Node_alt_899;#ED6869
+900;Winfrey Oprah;Node_alt_900;#79C074
+901;Wouk Herman;Node_alt_901;#ED6869
+902;Wyndham John;Node_alt_902;#ED6869
+903;Young William;Node_alt_903;#ED6869
+904;Zambra Alejandro;Node_alt_904;#ED6869
+905;Faber Michael;Node_alt_905;#ED6869
+906;Butler Octavia;Node_alt_906;#79C074
+907;Miller Madeline;Node_alt_907;#79C074
+908;Serrano Marcela;Node_alt_908;#79C074
+909;Smith Wilbur;Node_alt_909;#ED6869
+910;Aboulela Leila;Node_alt_910;#79C074
+911;Acker Kathy;Node_alt_911;#79C074
+912;Adam Claire;Node_alt_912;#79C074
+913;Ali Monica;Node_alt_913;#79C074
+914;Alsanea Rajaa;Node_alt_914;#79C074
+915;al-Shaykh Hanan;Node_alt_915;#79C074
+916;Mutis Álvaro;Node_alt_916;#ED6869
+917;Nhật Ánh Nguyễn;Node_alt_917;#ED6869
+918;Arenas Reinaldo;Node_alt_918;#ED6869
+919;Arthurs Alexia;Node_alt_919;#79C074
+920;Avery Ellis;Node_alt_920;#79C074
+921;Bader Ali;Node_alt_921;#ED6869
+922;Bangqing Han;Node_alt_922;#ED6869
+923;Barakat Ibtisam;Node_alt_923;#79C074
+924;Barakat Najwa;Node_alt_924;#79C074
+925;Barclay Florence L.;Node_alt_925;#79C074
+926;Barnes Margaret Ayer;Node_alt_926;#79C074
+927;Bastos Augusto Roa;Node_alt_927;#ED6869
+928;Bennett Arnold;Node_alt_928;#ED6869
+929;Okri Ben;Node_alt_929;#ED6869
+930;Berg Elizabeth;Node_alt_930;#79C074
+931;Bibish Bibish;Node_alt_931;#79C074
+932;Bohjalian Chris;Node_alt_932;#ED6869
+933;Boullosa Carmen;Node_alt_933;#79C074
+934;Bradley Edward;Node_alt_934;#ED6869
+935;Brown Charles;Node_alt_935;#ED6869
+936;Brown William Wells;Node_alt_936;#ED6869
+937;Cartland Barbara;Node_alt_937;#79C074
+938;Cezair-Thompson Margaret;Node_alt_938;#79C074
+939;Channer Colin;Node_alt_939;#ED6869
+940;Chatterji Bankimchandra;Node_alt_940;#ED6869
+941;Chikwava Brian;Node_alt_941;#ED6869
+942;Chiziane Paulina;Node_alt_942;#79C074
+943;Choden Kunzang;Node_alt_943;#79C074
+944;Chreiteh Alexandra;Node_alt_944;#79C074
+945;Clark Marcus;Node_alt_945;#ED6869
+946;Cleage Pearl;Node_alt_946;#79C074
+947;Cooper Helene;Node_alt_947;#79C074
+948;Coover Robert;Node_alt_948;#ED6869
+949;Corelli Marie;Node_alt_949;#79C074
+950;Couperus Louis;Node_alt_950;#ED6869
+951;Cozzens James Gould;Node_alt_951;#ED6869
+952;Dangarembga Tsitsi;Node_alt_952;#79C074
+953;Danticat Edwidge;Node_alt_953;#79C074
+954;Dao Bei;Node_alt_954;#ED6869
+955;Davis Harold Lenoir;Node_alt_955;#ED6869
+956;Dennis-Benn Nicole;Node_alt_956;#79C074
+957;de Recacoechea Juan;Node_alt_957;#ED6869
+958;Desai Kiran;Node_alt_958;#79C074
+959;de Saint-Pierre Bernardin;Node_alt_959;#ED6869
+960;Diop Boubacar Boris;Node_alt_960;#ED6869
+961;Disraeli Benjamin;Node_alt_961;#ED6869
+962;Dowlatabadi Mahmoud;Node_alt_962;#ED6869
+963;Drury Allen;Node_alt_963;#ED6869
+964;Dubus III Andre;Node_alt_964;#ED6869
+965;Durham David Anthony;Node_alt_965;#ED6869
+966;Elsir Amir Tag;Node_alt_966;#ED6869
+967;Eltayeb Tarek;Node_alt_967;#ED6869
+968;Enright Anne;Node_alt_968;#79C074
+969;Farah Nuruddin;Node_alt_969;#ED6869
+970;Ferber Edna;Node_alt_970;#79C074
+971;Flavin Martin;Node_alt_971;#ED6869
+972;Fonseca Rubem;Node_alt_972;#ED6869
+973;Forna Aminatta;Node_alt_973;#79C074
+974;French Marilyn;Node_alt_974;#79C074
+975;Gaines Ernest J.;Node_alt_975;#ED6869
+976;Gargash Maha;Node_alt_976;#79C074
+977;Gibbons Kaye;Node_alt_977;#79C074
+978;Gide André;Node_alt_978;#ED6869
+979;Goytisolo Juan;Node_alt_979;#ED6869
+980;Grau Shirley Ann;Node_alt_980;#79C074
+981;Green Henry;Node_alt_981;#ED6869
+982;Grossmith George;Node_alt_982;#ED6869
+983;Gunesekera Romesh;Node_alt_983;#ED6869
+984;Guthrie Alfred Bertram Jr;Node_alt_984;#ED6869
+985;Hagedorn Jessica;Node_alt_985;#79C074
+986;Hamilton Jane;Node_alt_986;#79C074
+987;Haynes Melinda;Node_alt_987;#79C074
+988;Haywood Eliza;Node_alt_988;#79C074
+989;Herbert Xavier;Node_alt_989;#ED6869
+990;Hersey John;Node_alt_990;#ED6869
+991;Hijuelos Oscar;Node_alt_991;#ED6869
+992;Himmich Bensalem;Node_alt_992;#ED6869
+993;Hoffman Alice;Node_alt_993;#79C074
+994;Hoffmann ETA;Node_alt_994;#ED6869
+995;Hogg James;Node_alt_995;#ED6869
+996;Holleran Andrew;Node_alt_996;#ED6869
+997;Holt Victoria;Node_alt_997;#79C074
+998;Howatch Susan;Node_alt_998;#79C074
+999;Hulme Keri;Node_alt_999;#79C074
+1000;Humaydan Younes Iman;Node_alt_1000;#79C074
+1001;Huong Duong Thu;Node_alt_1001;#79C074
+1002;Hurston Zona Neale;Node_alt_1002;#79C074
+1003;Inchbald Elizabeth;Node_alt_1003;#79C074
+1004;Isegawa Moses;Node_alt_1004;#ED6869
+1005;Ismailov Hamid;Node_alt_1005;#ED6869
+1006;Johnson Josephine Winslow;Node_alt_1006;#79C074
+1007;Jones Edward Paul;Node_alt_1007;#ED6869
+1008;Krishnamurthy Kalki;Node_alt_1008;#ED6869
+1009;Karunatilaka Shehan;Node_alt_1009;#ED6869
+1010;Kempadoo Oonya;Node_alt_1010;#79C074
+1011;King-Gamble Marcia;Node_alt_1011;#79C074
+1012;Kingsley Charles;Node_alt_1012;#ED6869
+1013;Kohan Martin;Node_alt_1013;#ED6869
+1014;Kuroyanagi Tetsuko;Node_alt_1014;#79C074
+1015;Kyomuhendo Goretti;Node_alt_1015;#79C074
+1016;Labelle Claude;Node_alt_1016;#ED6869
+1017;La Farge Oliver;Node_alt_1017;#ED6869
+1018;Lambourne Alfred;Node_alt_1018;#ED6869
+1019;Lamb Wally;Node_alt_1019;#ED6869
+1020;La Motte Ellen;Node_alt_1020;#79C074
+1021;Landa Gertrude;Node_alt_1021;#79C074
+1022;Landor Edward;Node_alt_1022;#ED6869
+1023;Lane Anna;Node_alt_1023;#79C074
+1024;Lane Elinor;Node_alt_1024;#79C074
+1025;Lange Dietrich;Node_alt_1025;#ED6869
+1026;Lang George;Node_alt_1026;#ED6869
+1027;Langworthy Daniel;Node_alt_1027;#ED6869
+1028;Lanman Charles;Node_alt_1028;#ED6869
+1029;Laughlin Clara;Node_alt_1029;#79C074
+1030;Laut Agnes;Node_alt_1030;#79C074
+1031;Lavell Edith;Node_alt_1031;#79C074
+1032;Lazell Frederick;Node_alt_1032;#ED6869
+1033;Leamy Edmund;Node_alt_1033;#ED6869
+1034;Lee Day;Node_alt_1034;#ED6869
+1035;Lee Hannah;Node_alt_1035;#ED6869
+1036;Lee Holme;Node_alt_1036;#79C074
+1037;LeFeuvre Amy;Node_alt_1037;#79C074
+1038;Le Queux William;Node_alt_1038;#ED6869
+1039;Lerrigo Charles;Node_alt_1039;#ED6869
+1040;Leslie Emma;Node_alt_1040;#79C074
+1041;Letts Billie;Node_alt_1041;#ED6869
+1042;Lewis Charlton;Node_alt_1042;#ED6869
+1043;Lim Suchen Christine;Node_alt_1043;#79C074
+1044;Litchfield Grace;Node_alt_1044;#79C074
+1045;Litsey Edwin;Node_alt_1045;#ED6869
+1046;Livermore George;Node_alt_1046;#ED6869
+1047;Locke David;Node_alt_1047;#ED6869
+1048;Lockhart Caroline;Node_alt_1048;#79C074
+1049;Lofts Norah;Node_alt_1049;#79C074
+1050;Long Helen;Node_alt_1050;#79C074
+1051;Longstreet Helen;Node_alt_1051;#79C074
+1052;Loomis Charles;Node_alt_1052;#ED6869
+1053;Looms George;Node_alt_1053;#ED6869
+1054;Lord Karen;Node_alt_1054;#79C074
+1055;Lorimer George;Node_alt_1055;#ED6869
+1056;Loring Emilie;Node_alt_1056;#79C074
+1057;Lott Bret;Node_alt_1057;#ED6869
+1058;Lovelace Earl;Node_alt_1058;#ED6869
+1059;Lowe Clara;Node_alt_1059;#79C074
+1060;Lowry Edward;Node_alt_1060;#ED6869
+1061;Ludovici Anthony;Node_alt_1061;#ED6869
+1062;Lyle Eugene;Node_alt_1062;#ED6869
+1063;Lynde Francis;Node_alt_1063;#ED6869
+1064;MacKinlay Kantor;Node_alt_1064;#ED6869
+1065;MacLeod Alistair;Node_alt_1065;#ED6869
+1066;Mann William J.;Node_alt_1066;#ED6869
+1067;Martínez Tomás Eloy;Node_alt_1067;#ED6869
+1068;Matesis Pavlos;Node_alt_1068;#ED6869
+1069;Mehta Gita;Node_alt_1069;#79C074
+1070;Meruane Lina;Node_alt_1070;#79C074
+1071;Middleton Stanley;Node_alt_1071;#ED6869
+1072;Miller Caroline Pafford;Node_alt_1072;#79C074
+1073;Miller Sue;Node_alt_1073;#79C074
+1074;Miller Kei;Node_alt_1074;#ED6869
+1075;Milne Alan Alexander;Node_alt_1075;#ED6869
+1076;Mistry Rohinton;Node_alt_1076;#ED6869
+1077;Mitchard Jacquelyn;Node_alt_1077;#79C074
+1078;Momaday Navarre Scott;Node_alt_1078;#ED6869
+1079;More Hannah;Node_alt_1079;#79C074
+1080;Morgan Robert;Node_alt_1080;#ED6869
+1081;Morris Mary McGarry;Node_alt_1081;#79C074
+1082;Mphahlele Es'kia;Node_alt_1082;#ED6869
+1083;Mukherjee Bharati;Node_alt_1083;#79C074
+1084;Muller Carl;Node_alt_1084;#ED6869
+1085;Murdoch Iris;Node_alt_1085;#79C074
+1086;Serpell Namwali;Node_alt_1086;#79C074
+1087;Narayan RK;Node_alt_1087;#ED6869
+1088;Nasrallah Ibrahim;Node_alt_1088;#ED6869
+1089;Nasrin Taslima;Node_alt_1089;#79C074
+1090;Nesbit Edith;Node_alt_1090;#79C074
+1091;Newby Percy Howard;Node_alt_1091;#ED6869
+1092;Ninh Bao;Node_alt_1092;#ED6869
+1093;Yi Nu Nu;Node_alt_1093;#79C074
+1094;O'Connor Edwin;Node_alt_1094;#ED6869
+1095;O'Dell Tawni;Node_alt_1095;#79C074
+1096;St Omer Garth;Node_alt_1096;#ED6869
+1097;Ondjaki Ondjaki;Node_alt_1097;#ED6869
+1098;Owuor Yvonne Adhiambo;Node_alt_1098;#79C074
+1099;Parajuly Prajwal;Node_alt_1099;#ED6869
+1100;Parsipur Shahrnush;Node_alt_1100;#79C074
+1101;Paton Alan;Node_alt_1101;#ED6869
+1102;Phillips Caryl;Node_alt_1102;#ED6869
+1103;Poole Ernest;Node_alt_1103;#ED6869
+1104;Quindlen Anna;Node_alt_1104;#79C074
+1105;Quiroga Horacio;Node_alt_1105;#ED6869
+1106;Randall FJ;Node_alt_1106;#ED6869
+1107;Rand Edward;Node_alt_1107;#ED6869
+1108;Rankin Carroll;Node_alt_1108;#79C074
+1109;Raper Eleanor;Node_alt_1109;#79C074
+1110;Ratner Vaddey;Node_alt_1110;#79C074
+1111;Ray Anna;Node_alt_1111;#79C074
+1112;Raymond Eveline;Node_alt_1112;#79C074
+1113;Reach Angus;Node_alt_1113;#ED6869
+1114;Read George;Node_alt_1114;#ED6869
+1115;Rebreanu Liviu;Node_alt_1115;#ED6869
+1116;Rechy John;Node_alt_1116;#ED6869
+1117;Reed Helen;Node_alt_1117;#79C074
+1118;Reid Elizabeth;Node_alt_1118;#79C074
+1119;Remick Grace;Node_alt_1119;#79C074
+1120;Reynolds George;Node_alt_1120;#ED6869
+1121;Reynolds Sheri;Node_alt_1121;#79C074
+1122;Rhodes Eugene;Node_alt_1122;#ED6869
+1123;Rice Alfred;Node_alt_1123;#ED6869
+1124;Rice George;Node_alt_1124;#ED6869
+1125;Richardson Albert;Node_alt_1125;#ED6869
+1126;Richardson Dorothy;Node_alt_1126;#79C074
+1127;Richardson Sarah;Node_alt_1127;#79C074
+1128;Rich Charles;Node_alt_1128;#ED6869
+1129;Richmond Grace;Node_alt_1129;#79C074
+1130;Richter Conrad;Node_alt_1130;#ED6869
+1131;Riddle Albert;Node_alt_1131;#ED6869
+1132;Rihani Ameen;Node_alt_1132;#ED6869
+1133;Riley Henry;Node_alt_1133;#ED6869
+1134;Ritchie Eric;Node_alt_1134;#ED6869
+1135;Rives Hallie;Node_alt_1135;#79C074
+1136;Robin Gallienne;Node_alt_1136;#79C074
+1137;Robinson CH;Node_alt_1137;#ED6869
+1138;Robinson Eliot;Node_alt_1138;#ED6869
+1139;Roche Arthur;Node_alt_1139;#ED6869
+1140;Roffey Monique;Node_alt_1140;#79C074
+1141;Roosevelt Wyn;Node_alt_1141;#ED6869
+1142;Roper Edward;Node_alt_1142;#ED6869
+1143;Rosebery Lord;Node_alt_1143;#ED6869
+1144;Ross Albert;Node_alt_1144;#ED6869
+1145;Ross Frederick;Node_alt_1145;#ED6869
+1146;Rowland Helen;Node_alt_1146;#79C074
+1147;Rubens Bernice;Node_alt_1147;#79C074
+1148;Rubio Gwyn Hyman;Node_alt_1148;#79C074
+1149;Ruck Berta;Node_alt_1149;#79C074
+1150;Russell Dora;Node_alt_1150;#79C074
+1151;Ruxton George;Node_alt_1151;#ED6869
+1152;Saer Juan José;Node_alt_1152;#ED6869
+1153;Saul Jack;Node_alt_1153;#ED6869
+1154;Scott Paul;Node_alt_1154;#ED6869
+1155;Selvon Sam;Node_alt_1155;#ED6869
+1156;Sembène Ousmane;Node_alt_1156;#ED6869
+1157;Shaara Michael;Node_alt_1157;#ED6869
+1158;Shah Bina;Node_alt_1158;#79C074
+1159;Sinclair Upton;Node_alt_1159;#ED6869
+1160;Sionil Jose F;Node_alt_1160;#ED6869
+1161;Sirees Nihad;Node_alt_1161;#ED6869
+1162;Sirleaf Ellen Johnson;Node_alt_1162;#79C074
+1163;Smiley Jane;Node_alt_1163;#79C074
+1164;Solares Martin;Node_alt_1164;#ED6869
+1165;Ibrahim Sonallah;Node_alt_1165;#ED6869
+1166;Soueif Ahdaf;Node_alt_1166;#79C074
+1167;Stead Christina;Node_alt_1167;#79C074
+1168;Storey David;Node_alt_1168;#ED6869
+1169;Stribling Thomas Sigismund;Node_alt_1169;#ED6869
+1170;Sudbanthad Pitchaya;Node_alt_1170;#ED6869
+1171;Susann Jacqueline;Node_alt_1171;#79C074
+1172;Swift Graham;Node_alt_1172;#ED6869
+1173;Syjuco Miguel;Node_alt_1173;#ED6869
+1174;Tademy Lalita;Node_alt_1174;#79C074
+1175;Taylor Bayard;Node_alt_1175;#ED6869
+1176;Taylor Peter;Node_alt_1176;#ED6869
+1177;Taylor Robert Lewis;Node_alt_1177;#ED6869
+1178;Tekin Latife;Node_alt_1178;#79C074
+1179;Thurman Wallace;Node_alt_1179;#ED6869
+1180;Toer Pramoedya Ananta;Node_alt_1180;#ED6869
+1181;Turner Ethel;Node_alt_1181;#79C074
+1182;Tynan Katharine;Node_alt_1182;#79C074
+1183;Unsworth Barry;Node_alt_1183;#ED6869
+1184;Upadhyay Samrat;Node_alt_1184;#ED6869
+1185;Volpi Jorge;Node_alt_1185;#ED6869
+1186;Warren Robert Penn;Node_alt_1186;#ED6869
+1187;Welsapar Ak;Node_alt_1187;#ED6869
+1188;Wendt Albert;Node_alt_1188;#ED6869
+1189;West Dorothy;Node_alt_1189;#79C074
+1190;Wilson Margaret;Node_alt_1190;#79C074
+1191;Wright Stephen;Node_alt_1191;#ED6869
+1192;Wroblewski David;Node_alt_1192;#ED6869
+1193;Yates Dornford;Node_alt_1193;#ED6869
+1194;Yefremov Ivan;Node_alt_1194;#ED6869
+1195;Yong Jin;Node_alt_1195;#ED6869
+1196;Young Lani Wendt;Node_alt_1196;#79C074
+1197;Ayatsuji Yukito;Node_alt_1197;#ED6869
+1198;Groom Winston;Node_alt_1198;#ED6869
+1199;McBride James;Node_alt_1199;#ED6869
+1200;Akhtar Ayad;Node_alt_1200;#ED6869
+1201;Lerner Ben;Node_alt_1201;#ED6869
+1202;Barry Kevin;Node_alt_1202;#ED6869
+1203;Orange Tommy;Node_alt_1203;#ED6869
+1204;Mahajan Karan;Node_alt_1204;#ED6869
+1205;McGuire Ian;Node_alt_1205;#ED6869
+1206;Hertmans Stefan;Node_alt_1206;#ED6869
+1207;Sharma Akhil;Node_alt_1207;#ED6869
+1208;Klay Phil;Node_alt_1208;#ED6869
+1209;Powers Kevin;Node_alt_1209;#ED6869
+1210;Harbach Chad;Node_alt_1210;#ED6869
+1211;Washington Bryan;Node_alt_1211;#ED6869
+1212;Cline Ernest;Node_alt_1212;#ED6869
+1213;Lanchester John;Node_alt_1213;#ED6869
+1214;Washburn Kawai;Node_alt_1214;#ED6869
+1215;Taylor Brandon;Node_alt_1215;#ED6869
+1216;McCann Colum;Node_alt_1216;#ED6869
+1217;Greenwell Garth;Node_alt_1217;#ED6869
+1218;Vuong Ocean;Node_alt_1218;#ED6869
+1219;Johnson Denis;Node_alt_1219;#ED6869
+1220;Yates Christopher;Node_alt_1220;#ED6869
+1221;Winters Ben;Node_alt_1221;#ED6869
+1222;Haslett Adam;Node_alt_1222;#ED6869
+1223;Barrett Colin;Node_alt_1223;#ED6869
+1224;Baxter Charles;Node_alt_1224;#ED6869
+1225;Hemon Aleksandar;Node_alt_1225;#ED6869
+1226;Petterson Per;Node_alt_1226;#ED6869
+1227;Tóibín Colm;Node_alt_1227;#ED6869
+1228;House Richard;Node_alt_1228;#ED6869
+1229;Shacochis Bob;Node_alt_1229;#ED6869
+1230;Meyer Philipp;Node_alt_1230;#ED6869
+1231;Barry Sebastian;Node_alt_1231;#ED6869
+1232;Lavalle Victor;Node_alt_1232;#ED6869
+1233;Kunzru Hari;Node_alt_1233;#ED6869
+1234;Coovadia Imraan;Node_alt_1234;#ED6869
+1235;Addonia Sulaiman;Node_alt_1235;#ED6869
+1236;Iweala Uzodinma;Node_alt_1236;#ED6869
+1237;Nwokolo Chuma;Node_alt_1237;#ED6869
+1238;Murray Paul;Node_alt_1238;#ED6869
+1239;Maupin Armistead;Node_alt_1239;#ED6869
+1240;Beauman Ned;Node_alt_1240;#ED6869
+1241;Temple Peter;Node_alt_1241;#ED6869
+1242;Neville Stuart;Node_alt_1242;#ED6869
+1243;Harrison MJ;Node_alt_1243;#ED6869
+1244;Porter Max;Node_alt_1244;#ED6869
+1245;Meek James;Node_alt_1245;#ED6869
+1246;Remoto Danton;Node_alt_1246;#ED6869
+1247;Vargas Jose F;Node_alt_1247;#ED6869
+1248;Lee Chang-rae;Node_alt_1248;#ED6869
+1249;Kimani Peter;Node_alt_1249;#ED6869
+1250;Burnet Macrae Graeme;Node_alt_1250;#ED6869
+1251;Kingsnorth Paul;Node_alt_1251;#ED6869
+1252;Szalay David;Node_alt_1252;#ED6869
+1253;Enrigue Alvaro;Node_alt_1253;#ED6869
+1254;MacNeil Kevin;Node_alt_1254;#ED6869
+1255;Rothmann Ralf;Node_alt_1255;#ED6869
+1256;MacLaverty Bernard;Node_alt_1256;#ED6869
+1257;Bjørnson Bjørnstjerne;Node_alt_1257;#ED6869
+1258;Heyse Paul;Node_alt_1258;#ED6869
+1259;Hauptmann Gerhart;Node_alt_1259;#ED6869
+1260;Rolland Romain;Node_alt_1260;#ED6869
+1261;Reymont Wladyslaw;Node_alt_1261;#ED6869
+1262;Undset Sigrid;Node_alt_1262;#79C074
+1263;Galsworthy John;Node_alt_1263;#ED6869
+1264;Bunin Ivan;Node_alt_1264;#ED6869
+1265;du Gard Roger;Node_alt_1265;#ED6869
+1266;Sillanpää Frans;Node_alt_1266;#ED6869
+1267;Mauriac François;Node_alt_1267;#ED6869
+1268;Andrić Ivo;Node_alt_1268;#ED6869
+1269;Simon Claude;Node_alt_1269;#ED6869
+1270;Jelinek Elfriede;Node_alt_1270;#79C074
+1271;Le Clezio JMG;Node_alt_1271;#ED6869
+1272;Spark Muriel;Node_alt_1272;#79C074
+1273;Barker AL;Node_alt_1273;#79C074
+1274;Bowen Elizabeth;Node_alt_1274;#79C074
+1275;Hazzard Shirley;Node_alt_1275;#79C074
+1276;Robinson Derek;Node_alt_1276;#ED6869
+1277;Taylor Elizabeth;Node_alt_1277;#79C074
+1278;Berger John;Node_alt_1278;#ED6869
+1279;Bainbridge Beryl;Node_alt_1279;#79C074
+1280;Trevor William;Node_alt_1280;#ED6869
+1281;Blackwood Caroline;Node_alt_1281;#79C074
+1282;Pym Barbara;Node_alt_1282;#79C074
+1283;Gardam Jane;Node_alt_1283;#79C074
+1284;Weldon Fay;Node_alt_1284;#79C074
+1285;Burgess Anthony;Node_alt_1285;#ED6869
+1286;Carr JL;Node_alt_1286;#ED6869
+1287;Keane Molly;Node_alt_1287;#79C074
+1288;Thomas DM;Node_alt_1288;#ED6869
+1289;Boyd William;Node_alt_1289;#ED6869
+1290;Bradbury Malcolm;Node_alt_1290;#ED6869
+1291;Fuller John;Node_alt_1291;#ED6869
+1292;Lodge David;Node_alt_1292;#ED6869
+1293;Davies Robertson;Node_alt_1293;#ED6869
+1294;Ackroyd Peter;Node_alt_1294;#ED6869
+1295;Bedford Sybille;Node_alt_1295;#79C074
+1296;Kelman James;Node_alt_1296;#ED6869
+1297;Tremain Rose;Node_alt_1297;#79C074
+1298;McGahern John;Node_alt_1298;#ED6869
+1299;Moore Brian;Node_alt_1299;#ED6869
+1300;Amis Martin;Node_alt_1300;#ED6869
+1301;McCabe Patrick;Node_alt_1301;#ED6869
+1302;Fischer Tibor;Node_alt_1302;#ED6869
+1303;Crace Jim;Node_alt_1303;#ED6869
+1304;Jackson Mick;Node_alt_1304;#ED6869
+1305;Parks Tim;Node_alt_1305;#ED6869
+1306;Booth Martin;Node_alt_1306;#ED6869
+1307;Mills Magnus;Node_alt_1307;#ED6869
+1308;Frayn Michael;Node_alt_1308;#ED6869
+1309;Azzopardi Trezza;Node_alt_1309;#79C074
+1310;Kneale Matthew;Node_alt_1310;#ED6869
+1311;Seiffert Rachel;Node_alt_1311;#79C074
+1312;Smith Ali;Node_alt_1312;#79C074
+1313;Galgut Damon;Node_alt_1313;#ED6869
+1314;Heller Zoë;Node_alt_1314;#79C074
+1315;Morrall Clare;Node_alt_1315;#79C074
+1316;Hall Sarah;Node_alt_1316;#79C074
+1317;Woodward Gerard;Node_alt_1317;#ED6869
+1318;Hyland MJ;Node_alt_1318;#79C074
+1319;Barker Nicola;Node_alt_1319;#79C074
+1320;Jones Lloyd;Node_alt_1320;#ED6869
+1321;Sinha Indra;Node_alt_1321;#ED6869
+1322;Grant Linda;Node_alt_1322;#79C074
+1323;Hensher Philip;Node_alt_1323;#ED6869
+1324;Toltz Steve;Node_alt_1324;#ED6869
+1325;Foulds Adam;Node_alt_1325;#ED6869
+1326;Mawer Simon;Node_alt_1326;#ED6869
+1327;Donoghue Emma;Node_alt_1327;#79C074
+1328;Levy Andrea;Node_alt_1328;#ED6869
+1329;McCarthy Tom;Node_alt_1329;#ED6869
+1330;Birch Carol;Node_alt_1330;#79C074
+1331;deWitt Patrick;Node_alt_1331;#ED6869
+1332;Edugyan Esi;Node_alt_1332;#79C074
+1333;Kelman Stephen;Node_alt_1333;#ED6869
+1334;Miller AD;Node_alt_1334;#ED6869
+1335;Levy Deborah;Node_alt_1335;#79C074
+1336;Moore Alison;Node_alt_1336;#79C074
+1337;Self Will;Node_alt_1337;#ED6869
+1338;Thayil Jeet;Node_alt_1338;#ED6869
+1339;Ferris Joshua;Node_alt_1339;#ED6869
+1340;Fowler Karen;Node_alt_1340;#79C074
+1341;Sahota Sunjeev;Node_alt_1341;#ED6869
+1342;Thien Madeleine;Node_alt_1342;#79C074
+1343;Fridlund Emily;Node_alt_1343;#79C074
+1344;Mozley Fiona;Node_alt_1344;#79C074
+1345;Johnson Daisy;Node_alt_1345;#79C074
+1346;Kushner Rachel;Node_alt_1346;#79C074
+1347;Ellmann Lucy;Node_alt_1347;#79C074
+1348;Cook Diane;Node_alt_1348;#79C074
+1349;Marquand John;Node_alt_1349;#ED6869
+1350;Agee James;Node_alt_1350;#ED6869
+1351;Porter Katherine;Node_alt_1351;#79C074
+1352;Stafford Jean;Node_alt_1352;#79C074
+1353;McPherson James;Node_alt_1353;#ED6869
+1354;Butler Robert;Node_alt_1354;#ED6869
+1355;Egan Jennifer;Node_alt_1355;#79C074
+1356;Erdrich Louise;Node_alt_1356;#79C074
+1357;Škvorecký Josef;Node_alt_1357;#ED6869
+1358;Frisch Max;Node_alt_1358;#ED6869
+1359;Rao Raja;Node_alt_1359;#ED6869
+1360;Ugrešić Dubravka;Node_alt_1360;#79C074
+1361;Michon Pierre;Node_alt_1361;#ED6869
+1362;Magris Claudio;Node_alt_1362;#ED6869
+1363;Lustig Arnošt;Node_alt_1363;#ED6869
+1364;Nádas Péter;Node_alt_1364;#ED6869
+1365;Klíma Ivan;Node_alt_1365;#ED6869

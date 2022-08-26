@@ -1,0 +1,1366 @@
+Id;Label;AltLabel;sex;historical_period;continent;translated;nobel;all_prizes
+1;Aciman André;Node_alt_1;0;2013;2;0;0;1
+2;Agassi Andre;Node_alt_2;0;2009;2;0;0;0
+3;Alcott Louisa May;Node_alt_3;1;1871;2;0;0;1
+4;Allende Isabel;Node_alt_4;1;2001;3;1;0;1
+5;Ammaniti Niccolò;Node_alt_5;0;2008;1;1;0;0
+6;Anderson Sherwood;Node_alt_6;0;1919;2;0;0;0
+7;Atkinson Kate;Node_alt_7;1;2013;1;0;0;1
+8;Atwood Margaret;Node_alt_8;1;2001;2;0;0;1
+9;Austen Jane;Node_alt_9;1;1812;1;0;0;1
+10;Auster Paul;Node_alt_10;0;1999;2;0;0;0
+11;Ballard JG;Node_alt_11;0;1974;1;0;0;0
+12;Barbery Muriel;Node_alt_12;1;2006;1;1;0;0
+13;Baricco Alessandro;Node_alt_13;0;1996;1;1;0;0
+14;Barnes Julian;Node_alt_14;0;2010;1;0;0;1
+15;Bassani Giorgio;Node_alt_15;0;1962;1;0;0;0
+16;Baum L Frank;Node_alt_16;0;1900;2;0;0;0
+17;Bellow Saul;Node_alt_17;0;1967;2;0;1;1
+18;Bender Aimee;Node_alt_18;1;2010;2;0;0;0
+19;Benioff David;Node_alt_19;0;2008;2;0;0;0
+20;Bennett Alan;Node_alt_20;0;1989;1;0;0;1
+21;Bennett Andrea;Node_alt_21;1;2015;2;0;0;0
+22;Bernhard Thomas;Node_alt_22;0;1983;1;1;0;0
+23;Bolaño Roberto;Node_alt_23;0;2001;3;1;0;1
+24;Borges Jorge Luis;Node_alt_24;0;1952;3;1;0;0
+25;Boyne John;Node_alt_25;0;2006;1;0;0;0
+26;Bradbury Ray;Node_alt_26;0;1953;2;0;0;0
+27;Brontë Charlotte;Node_alt_27;1;1850;1;0;0;1
+28;Brontë Emily;Node_alt_28;1;1847;1;0;0;1
+29;Bukowski Charles;Node_alt_29;0;1973;2;0;0;0
+30;Bulgakov Mikhail;Node_alt_30;0;1946;1;1;0;0
+31;Bunker Edward;Node_alt_31;0;1984;2;0;0;0
+32;Byatt Antonia Susan;Node_alt_32;1;2000;1;0;0;1
+33;Cain James;Node_alt_33;0;1934;2;0;0;0
+34;Calvino Italo;Node_alt_34;0;1971;1;1;0;0
+35;Cameron Peter;Node_alt_35;0;2007;2;0;0;0
+36;Camus Albert;Node_alt_36;0;1961;1;1;1;1
+37;Capote Truman;Node_alt_37;0;1954;2;0;0;1
+38;Carrère Emmanuel;Node_alt_38;0;2011;1;1;0;0
+39;Carrisi Donato;Node_alt_39;0;2012;1;1;0;0
+40;Carroll Lewis;Node_alt_40;0;1876;1;0;0;1
+41;Carter Angela;Node_alt_41;1;1974;1;0;0;0
+42;Carver Raymond;Node_alt_42;0;1982;2;0;0;0
+43;Cather Willa;Node_alt_43;1;1919;2;0;0;1
+44;Catozzella Giuseppe;Node_alt_44;0;2014;1;1;0;0
+45;Chabon Michael;Node_alt_45;0;2000;2;0;0;1
+46;Chandler Raymond;Node_alt_46;0;1944;2;0;0;0
+47;Chatwin Bruce;Node_alt_47;0;1984;1;0;0;0
+48;Cheever John;Node_alt_48;0;1976;2;0;0;0
+49;Christie Agatha;Node_alt_49;1;1942;1;0;0;0
+50;Clarke Arthur;Node_alt_50;0;1963;1;0;0;1
+51;Cocteau Jean;Node_alt_51;0;1929;1;1;0;0
+52;Coe Jonathan;Node_alt_52;0;2006;1;0;0;0
+53;Coelho Paulo;Node_alt_53;0;1993;3;1;0;0
+54;Coetzee JM;Node_alt_54;0;1992;5;0;1;1
+55;Cognetti Paolo;Node_alt_55;0;2016;1;1;0;0
+56;Collodi Carlo;Node_alt_56;0;1883;1;1;0;0
+57;Connelly Michael;Node_alt_57;0;2019;2;0;0;0
+58;Conrad Joseph;Node_alt_58;0;1899;1;0;0;0
+59;Cooper Glenn;Node_alt_59;0;2018;2;0;0;0
+60;Cooper James;Node_alt_60;0;1838;2;0;0;0
+61;Crichton Michael;Node_alt_61;0;1990;2;0;0;0
+62;Cronin AJ;Node_alt_62;0;1934;1;0;0;1
+63;Cunningham Michael;Node_alt_63;0;1999;2;0;0;1
+64;Dawkins Richard;Node_alt_64;0;2006;1;0;0;1
+65;De Giovanni Maurizio;Node_alt_65;0;2013;1;1;0;0
+66;DeLillo Don;Node_alt_66;0;1995;2;0;0;1
+67;de Maupassant Guy;Node_alt_67;0;1885;1;1;0;0
+68;de Saint-Exupéry Antoine;Node_alt_68;0;1943;1;1;0;0
+69;Dickens Charles;Node_alt_69;0;1849;1;0;0;1
+70;Dicker Joël;Node_alt_70;0;2012;1;1;0;0
+71;Dick Philip Kindred;Node_alt_71;0;1973;2;0;0;0
+72;Didion Joan;Node_alt_72;1;2005;2;0;0;0
+73;Dostoevsky Fyodor;Node_alt_73;0;1865;1;1;0;1
+74;Doyle Arthur Conan;Node_alt_74;0;1901;1;0;0;0
+75;Dumas Alexandre;Node_alt_75;0;1845;1;1;0;1
+76;Duras Marguerite;Node_alt_76;1;1984;1;1;0;0
+77;Durrell Gerald;Node_alt_77;0;1956;1;0;0;0
+78;Eco Umberto;Node_alt_78;0;1980;1;1;0;0
+79;Eggers Dave;Node_alt_79;0;2007;2;0;0;1
+80;Eliot George;Node_alt_80;1;1865;1;0;0;1
+81;Ellis Bret Easton;Node_alt_81;0;1988;2;0;0;0
+82;Eugenides Jeffrey;Node_alt_82;0;1998;2;0;0;1
+83;Fante John;Node_alt_83;0;1951;2;0;0;1
+84;Faulkner William;Node_alt_84;0;1936;2;0;1;1
+85;Ferrante Elena;Node_alt_85;1;2006;1;1;0;1
+86;Fielding Helen;Node_alt_86;1;1995;1;0;0;1
+87;Fitzgerald Francis Scott;Node_alt_87;0;1930;2;0;0;1
+88;Flagg Fannie;Node_alt_88;1;1987;2;0;0;0
+89;Flaubert Gustave;Node_alt_89;0;1863;1;1;0;1
+90;Flynn Gillian;Node_alt_90;1;2009;2;0;0;1
+91;Foer Jonathan Safran;Node_alt_91;0;2004;2;0;0;0
+92;Follett Ken;Node_alt_92;0;2006;1;0;0;1
+93;Ford Richard;Node_alt_93;0;2004;2;0;0;1
+94;Frank Anne;Node_alt_94;1;1947;1;1;0;0
+95;Franzen Jonathan;Node_alt_95;0;2009;2;0;0;1
+96;Gaiman Neil;Node_alt_96;0;2006;1;0;0;0
+97;Gary Romain;Node_alt_97;0;1980;1;1;0;0
+98;Gibson William;Node_alt_98;0;1984;2;0;0;1
+99;Ginzburg Natalia;Node_alt_99;1;1963;1;1;0;0
+100;von Goethe Johann Wolfgang;Node_alt_100;0;1792;1;1;0;0
+101;Gogol Nikolai;Node_alt_101;0;1839;1;1;0;0
+102;Golden Arthur;Node_alt_102;0;1997;2;0;0;1
+103;Golding William;Node_alt_103;0;1967;1;0;1;1
+104;Gončarov Ivan;Node_alt_104;0;1859;1;1;0;0
+105;Grandes Almudena;Node_alt_105;1;1998;1;1;0;0
+106;Grass Günter;Node_alt_106;0;1968;1;1;1;1
+107;Green John;Node_alt_107;0;2009;2;0;0;0
+108;Groff Lauren;Node_alt_108;1;2015;2;0;0;1
+109;Grogan John;Node_alt_109;0;2005;2;0;0;0
+110;Gurdjieff Georges;Node_alt_110;0;1963;1;1;0;0
+111;Haddon Mark;Node_alt_111;0;2003;1;0;0;1
+112;Hamid Mohsin;Node_alt_112;0;2009;4;0;0;1
+113;Hamsun Knut;Node_alt_113;0;1898;1;1;1;1
+114;Hardy Thomas;Node_alt_114;0;1879;1;0;0;1
+115;Hawkins Paula;Node_alt_115;1;2015;1;0;0;0
+116;Hemingway Ernest;Node_alt_116;0;1937;2;0;1;1
+117;Hesse Herman;Node_alt_117;0;1926;1;1;1;1
+118;Highsmith Patricia;Node_alt_118;1;1955;2;0;0;0
+119;Homes Amy;Node_alt_119;1;2006;2;0;0;0
+120;Honeyman Gail;Node_alt_120;1;2017;1;0;0;1
+121;Hornby Nick;Node_alt_121;0;2000;1;0;0;0
+122;Hosseini Khaled;Node_alt_122;0;2008;4;0;0;1
+123;Houellebecq Michel;Node_alt_123;0;2009;1;1;0;0
+124;Howard Elizabeth Jane;Node_alt_124;1;1969;1;0;0;0
+125;Hrabal Bohumil;Node_alt_125;0;1976;1;1;0;0
+126;Hugo Victor;Node_alt_126;0;1854;1;1;0;0
+127;Huxley Aldous;Node_alt_127;0;1939;1;0;0;1
+128;Huysmans Joris Karl;Node_alt_128;0;1884;1;1;0;0
+129;Irving John;Node_alt_129;0;1990;2;0;0;1
+130;Isaacson Walter;Node_alt_130;0;2011;2;0;0;1
+131;Isherwood Christopher;Node_alt_131;0;1964;2;0;0;0
+132;Ishiguro Kazuo;Node_alt_132;0;2003;1;0;1;1
+133;Jackson Shirley;Node_alt_133;1;1962;2;0;0;0
+134;James Henry;Node_alt_134;0;1894;2;0;0;0
+135;Jansson Tove;Node_alt_135;1;1972;1;1;0;0
+136;Jerome Jerome;Node_alt_136;0;1889;1;0;0;0
+137;St John Mandel Emily;Node_alt_137;1;2014;2;0;0;1
+138;Johnson Adam;Node_alt_138;0;2012;2;0;0;1
+139;Joyce James;Node_alt_139;0;1917;1;0;0;1
+140;Kafka Franz;Node_alt_140;0;1922;1;1;0;0
+141;Kanehara Hitomi;Node_alt_141;1;2005;4;1;0;0
+142;Kang Han;Node_alt_142;1;2011;4;1;0;1
+143;Karr Mary;Node_alt_143;1;1995;2;0;0;0
+144;Kawabata Yasunari;Node_alt_144;0;1959;4;1;1;1
+145;Kawamura Genki;Node_alt_145;0;2012;4;1;0;0
+146;Keneally Thomas;Node_alt_146;0;1982;6;0;0;1
+147;Kerouac Jack;Node_alt_147;0;1957;2;0;0;1
+148;King Stephen;Node_alt_148;0;1993;2;0;0;0
+149;Kinsella Sophie;Node_alt_149;1;2000;1;0;0;0
+150;Kipling Rudyard;Node_alt_150;0;1895;1;0;1;1
+151;Knausgård Karl Ove;Node_alt_151;0;2010;1;1;0;0
+152;Krakauer Jon;Node_alt_152;0;1996;2;0;0;0
+153;Kristof Ágota;Node_alt_153;1;1986;1;1;0;0
+154;Kundera Milan;Node_alt_154;0;1977;1;1;0;1
+155;Laclos Pierre;Node_alt_155;0;1782;1;1;0;0
+156;Lagercrantz David;Node_alt_156;0;2015;1;1;0;0
+157;Lagioia Nicola;Node_alt_157;0;2014;1;1;0;0
+158;Lahiri Jhumpa;Node_alt_158;1;2008;2;1;0;1
+159;Laing Olivia;Node_alt_159;1;2016;1;0;0;0
+160;Lampedusa Giuseppe Tomasi;Node_alt_160;0;1958;1;1;0;0
+161;Larsson Stieg;Node_alt_161;0;2006;1;1;0;1
+162;Laurain Antoine;Node_alt_162;0;2014;1;1;0;0
+163;Leavitt David;Node_alt_163;0;1985;2;0;0;0
+164;Lee Harper;Node_alt_164;1;1960;2;0;0;1
+165;Lehane Dennis;Node_alt_165;0;2001;2;0;0;0
+166;Lethem Jonathan;Node_alt_166;0;2003;2;0;0;0
+167;Levin Ira;Node_alt_167;0;1970;2;0;0;0
+168;Levi Primo;Node_alt_168;0;1964;1;1;0;0
+169;Lewis Clive Staples;Node_alt_169;0;1950;1;0;0;0
+170;Lewis Roy;Node_alt_170;0;1960;1;0;0;0
+171;Lispector Clarice;Node_alt_171;1;1960;3;1;0;0
+172;London Jack;Node_alt_172;0;1908;2;0;0;0
+173;Lovecraft HP;Node_alt_173;0;1932;2;0;0;0
+174;Lowry Malcolm;Node_alt_174;0;1947;1;0;0;0
+175;Malamud Bernard;Node_alt_175;0;1957;2;0;0;0
+176;Malzieu Mathias;Node_alt_176;0;2007;1;1;0;0
+177;Mandela Nelson;Node_alt_177;0;2013;5;0;0;0
+178;Mann Thomas;Node_alt_178;0;1912;1;1;1;1
+179;Márai Sándor;Node_alt_179;0;1942;1;1;0;0
+180;Marías Javier;Node_alt_180;0;1997;1;1;0;1
+181;Marone Lorenzo;Node_alt_181;0;2015;1;1;0;0
+182;Márquez Gabriel García;Node_alt_182;0;1982;3;1;1;1
+183;Martel Yann;Node_alt_183;0;2001;2;0;0;1
+184;Martin George;Node_alt_184;0;2002;2;0;0;0
+185;McCarthy Cormac;Node_alt_185;0;1993;2;0;0;1
+186;McCullers Carson;Node_alt_186;1;1947;2;0;0;0
+187;McEwan Ian;Node_alt_187;0;1995;1;0;0;1
+188;McInerney Jay;Node_alt_188;0;1984;2;0;0;0
+189;Melville Herman;Node_alt_189;0;1888;2;0;0;1
+190;Mercier Pascal;Node_alt_190;0;2004;1;1;0;0
+191;Miller Henry;Node_alt_191;0;1947;2;0;0;0
+192;Mishima Yukio;Node_alt_192;0;1957;4;1;0;0
+193;Mitchell David;Node_alt_193;0;2007;1;0;0;1
+194;Mitford Nancy;Node_alt_194;1;1949;1;0;0;0
+195;Modiano Patrick;Node_alt_195;0;2002;1;1;1;1
+196;Morante Elsa;Node_alt_196;1;1957;1;1;0;0
+197;Moravia Alberto;Node_alt_197;0;1960;1;1;0;0
+198;Morrison Toni;Node_alt_198;1;1982;2;0;1;1
+199;Moshfegh Ottessa;Node_alt_199;1;2018;2;0;0;0
+200;Moyes Jojo;Node_alt_200;1;2012;1;0;0;0
+201;Munro Alice;Node_alt_201;1;1990;2;0;1;1
+202;Murakami Haruki;Node_alt_202;0;2004;4;1;0;1
+203;Murgia Michela;Node_alt_203;1;2009;1;1;0;0
+204;Musil Robert;Node_alt_204;0;1925;1;1;0;0
+205;Nabokov Vladimir;Node_alt_205;0;1943;1;0;0;0
+206;Nelson Blake;Node_alt_206;0;2006;2;0;0;0
+207;Némirovsky Irène;Node_alt_207;1;1972;1;1;0;0
+208;Adichie Ngozi Chimamanda;Node_alt_208;1;2008;5;0;0;1
+209;Nicholls David;Node_alt_209;0;2012;1;0;0;1
+210;Niffenegger Audrey;Node_alt_210;1;2003;2;0;0;1
+211;Nin Anaïs;Node_alt_211;1;1977;2;0;0;0
+212;Nothomb Amélie;Node_alt_212;1;1992;1;1;0;0
+213;Oates Joyce Carol;Node_alt_213;1;1996;2;0;0;0
+214;O'Brien Edna;Node_alt_214;1;1960;1;0;0;0
+215;O'Connor Flannery;Node_alt_215;1;1958;2;0;0;0
+216;O'Hagan Andrew;Node_alt_216;0;2017;1;0;0;0
+217;Ortese Anna Maria;Node_alt_217;1;1953;1;1;0;0
+218;Orwell George;Node_alt_218;0;1947;1;0;0;1
+219;Oz Amos;Node_alt_219;0;1994;4;1;0;1
+220;Paasilinna Arto;Node_alt_220;0;1975;1;1;0;0
+221;Palacio RJ;Node_alt_221;1;2012;2;0;0;0
+222;Palahniuk Chuck;Node_alt_222;0;2002;2;0;0;0
+223;Pasternak Boris;Node_alt_223;0;1957;1;1;1;1
+224;Pavese Cesare;Node_alt_224;0;1949;1;1;0;0
+225;Perutz Leo;Node_alt_225;0;1945;1;1;0;0
+226;Pessoa Fernando;Node_alt_226;0;1982;1;1;0;0
+227;Pirandello Luigi;Node_alt_227;0;1904;1;1;1;1
+228;Pirsig Robert;Node_alt_228;0;1974;2;0;0;0
+229;Plath Sylvia;Node_alt_229;1;1963;2;0;0;0
+230;Poe Edgar Allan;Node_alt_230;0;1845;2;0;0;0
+231;Pollan Michael;Node_alt_231;0;2006;2;0;0;0
+232;Proulx Annie;Node_alt_232;1;1995;2;0;0;1
+233;Proust Marcel;Node_alt_233;0;1913;1;1;0;0
+234;Punke Michael;Node_alt_234;0;2002;2;0;0;0
+235;Pynchon Thomas;Node_alt_235;0;1970;2;0;0;1
+236;Radiguet Raymond;Node_alt_236;0;1923;1;1;0;0
+237;Redfield James;Node_alt_237;0;1993;2;0;0;0
+238;Remarque Erich Maria;Node_alt_238;0;1929;1;1;0;1
+239;Richler Mordecai;Node_alt_239;0;1993;2;0;0;0
+240;Robinson Marilynne;Node_alt_240;1;2009;2;0;0;1
+241;Rooney Sally;Node_alt_241;1;2017;1;0;0;1
+242;Rosoff Meg;Node_alt_242;1;2004;2;0;0;0
+243;Roth Philip;Node_alt_243;0;1990;2;0;0;1
+244;Rowell Rainbow;Node_alt_244;1;2013;2;0;0;1
+245;Rowling JK;Node_alt_245;1;2001;1;0;0;1
+246;Rushdie Salman;Node_alt_246;0;1990;4;0;0;1
+247;Sacks Oliver;Node_alt_247;0;2017;1;0;0;0
+248;Sagan Françoise;Node_alt_248;1;1954;1;1;0;0
+249;Salinger JD;Node_alt_249;0;1956;2;0;0;1
+250;Saramago Josè;Node_alt_250;0;2003;1;1;1;1
+251;Saunders George;Node_alt_251;0;2015;2;0;0;1
+252;Saviano Roberto;Node_alt_252;0;2006;1;1;0;0
+253;Schnitzler Arthur;Node_alt_253;0;1926;1;1;0;0
+254;Scott Walter;Node_alt_254;0;1818;1;0;0;0
+255;Sebald Winfried Georg;Node_alt_255;0;1997;1;1;0;0
+256;Sebold Alice;Node_alt_256;1;2002;2;0;0;1
+257;Sedaris David;Node_alt_257;0;2008;2;0;0;0
+258;Simenon Georges;Node_alt_258;0;1942;1;1;0;0
+259;Skloot Rebecca;Node_alt_259;1;2010;2;0;0;0
+260;Smith Martin Cruz;Node_alt_260;0;1981;2;0;0;0
+261;Solzhenitsyn Aleksandr;Node_alt_261;0;1973;1;1;1;1
+262;Sōseki Natsume;Node_alt_262;0;1909;4;1;0;0
+263;Sparks Nicholas;Node_alt_263;0;1999;2;0;0;0
+264;Stefansson Jón Kalman;Node_alt_264;0;2007;1;1;0;0
+265;Steinbeck John;Node_alt_265;0;1941;2;0;1;1
+266;Stendhal Marie-Henri;Node_alt_266;0;1835;1;1;0;0
+267;Stevenson Robert Louis;Node_alt_267;0;1889;1;0;0;1
+268;Stoker Bram;Node_alt_268;0;1897;1;0;0;0
+269;Stroud Carsten;Node_alt_269;0;2012;2;0;0;0
+270;Strout Elizabeth;Node_alt_270;1;2011;2;0;0;1
+271;Süskind Patrick;Node_alt_271;0;1985;1;1;0;1
+272;Svevo Italo;Node_alt_272;0;1911;1;1;0;0
+273;Swift Jonathan;Node_alt_273;0;1726;1;0;0;0
+274;Szabó Magda;Node_alt_274;1;1987;1;1;0;1
+275;Tabucchi Antonio;Node_alt_275;0;1990;1;1;0;0
+276;Takami Koushun;Node_alt_276;0;1999;4;1;0;0
+277;Tartt Donna;Node_alt_277;1;2008;2;0;0;1
+278;Taylor Laini;Node_alt_278;1;2017;2;0;0;0
+279;Thackeray William Makepeace;Node_alt_279;0;1848;1;0;0;0
+280;Thomas Scarlett;Node_alt_280;1;2005;1;0;0;0
+281;Thompson Harry;Node_alt_281;0;2005;1;0;0;0
+282;Thoreau Henry David;Node_alt_282;0;1854;2;0;0;0
+283;Tokarczuk Olga;Node_alt_283;1;2008;1;1;1;1
+284;Tolkien JRR;Node_alt_284;0;1946;1;0;0;1
+285;Tolstoy Leo;Node_alt_285;0;1873;1;1;0;1
+286;Turgenev Ivan;Node_alt_286;0;1861;1;1;0;0
+287;Twain Mark;Node_alt_287;0;1883;2;0;0;0
+288;Uhlman Fred;Node_alt_288;0;1971;1;0;0;0
+289;Vargas Fred;Node_alt_289;1;1995;1;1;0;0
+290;Verne Jules;Node_alt_290;0;1878;1;1;0;0
+291;Vian Boris;Node_alt_291;0;1946;1;1;0;0
+292;Vila-Matas Enrique;Node_alt_292;0;2000;1;1;0;0
+293;Vinci Simona;Node_alt_293;1;1997;1;1;0;0
+294;Vonnegut Kurt;Node_alt_294;0;1962;2;0;0;0
+295;de Waal Edmund;Node_alt_295;0;2010;1;0;0;1
+296;Walker Alice;Node_alt_296;1;1982;2;0;0;1
+297;Wallace David Foster;Node_alt_297;0;1997;2;0;0;0
+298;Waller Robert James;Node_alt_298;0;1992;2;0;0;0
+299;Walpole Horace;Node_alt_299;0;1764;1;0;0;0
+300;Waters Sarah;Node_alt_300;1;2002;1;0;0;1
+301;West Nathanael;Node_alt_301;0;1933;2;0;0;0
+302;Westover Tara;Node_alt_302;1;2018;2;0;0;0
+303;West Rebecca;Node_alt_303;1;1970;1;0;0;0
+304;Wharton Edith;Node_alt_304;1;1916;2;0;0;1
+305;Wiesel Elie;Node_alt_305;0;1958;2;1;0;0
+306;Wilde Oscar;Node_alt_306;0;1890;1;0;0;0
+307;Williams John;Node_alt_307;0;1957;2;0;0;0
+308;Winslow Don;Node_alt_308;0;2019;2;0;0;0
+309;Winterson Jeanette;Node_alt_309;1;1992;1;0;0;0
+310;Wollstonecraft Mary;Node_alt_310;1;1822;1;0;0;0
+311;Woolf Virginia;Node_alt_311;1;1928;1;0;0;1
+312;Yanagihara Hanya;Node_alt_312;1;2014;2;0;0;1
+313;Yates Richard;Node_alt_313;0;1969;2;0;0;0
+314;Yoshimoto Banana;Node_alt_314;1;1999;4;1;0;0
+315;Yourcenar Marguerite;Node_alt_315;1;1951;1;1;0;0
+316;Zafón Carlos Ruiz;Node_alt_316;0;2003;1;1;0;0
+317;Zola Émile;Node_alt_317;0;1883;1;1;0;0
+318;Le Guin Ursula;Node_alt_318;1;1968;2;0;0;1
+319;Sturgeon Theodore;Node_alt_319;0;1950;2;0;0;0
+320;Alderman Naomi;Node_alt_320;1;2016;1;0;0;1
+321;McMurtry Larry;Node_alt_321;0;1985;2;0;0;1
+322;Läckberg Camilla;Node_alt_322;1;2008;1;1;0;0
+323;Abdolah Kader;Node_alt_323;0;2005;4;1;0;0
+324;Abulhawa Susan;Node_alt_324;1;2011;4;0;0;0
+325;Achebe Chinua;Node_alt_325;0;1961;5;0;0;1
+326;Adébáyò Ayòbámi;Node_alt_326;1;2017;5;0;0;0
+327;Adiga Aravind;Node_alt_327;0;2010;4;0;0;1
+328;Agnon Shmuel Yosef;Node_alt_328;0;1935;4;1;1;1
+329;Agualusa Josè Eduardo;Node_alt_329;0;2014;5;1;0;0
+330;Akunin Boris;Node_alt_330;0;1998;1;1;0;0
+331;Alarcón Daniel;Node_alt_331;0;2010;3;0;0;0
+332;Aleksievič Svetlana;Node_alt_332;1;2013;1;1;1;1
+333;Alem Raja'a;Node_alt_333;1;2012;4;1;0;0
+334;Ali Sabahattin;Node_alt_334;0;1943;4;1;0;0
+335;Amado Jorge;Node_alt_335;0;1954;3;1;0;0
+336;Anand Mulk Râj;Node_alt_336;0;1935;4;0;0;0
+337;Anderson Poul;Node_alt_337;0;1960;2;0;0;0
+338;Antunes António Lobo;Node_alt_338;0;1997;1;1;0;0
+339;Anwar Arif;Node_alt_339;0;2018;4;0;0;0
+340;Anyi Wang;Node_alt_340;1;1995;4;1;0;0
+341;Appelfeld Aharon;Node_alt_341;0;1996;4;1;0;0
+342;Aramburu Fernando;Node_alt_342;0;2016;1;1;0;0
+343;Arguedas José María;Node_alt_343;0;1958;3;1;0;0
+344;Arlt Roberto;Node_alt_344;0;1929;3;1;0;0
+345;Atogun Odafe;Node_alt_345;0;2016;5;0;0;0
+346;Aw Tash;Node_alt_346;0;2016;4;0;0;0
+347;Aziz Abdel Basma;Node_alt_347;1;2013;5;1;0;0
+348;Azuela Mariano;Node_alt_348;0;1915;3;1;0;0
+349;Badani Sejal;Node_alt_349;1;2017;4;0;0;0
+350;Barrett Igoni A;Node_alt_350;0;2015;5;0;0;0
+351;Batalha Martha;Node_alt_351;1;2016;3;1;0;0
+352;Beah Ishmael;Node_alt_352;0;2007;5;0;0;0
+353;Beckett Samuel;Node_alt_353;0;1945;1;1;1;1
+354;Belli Gioconda;Node_alt_354;1;2007;3;0;0;0
+355;Benmalek Anouar;Node_alt_355;0;2011;5;1;0;0
+356;Berberova Nina Nikolaevna;Node_alt_356;1;1969;1;1;0;0
+357;Binebine Mahi;Node_alt_357;0;2010;5;1;0;0
+358;Blixen Karen;Node_alt_358;1;1937;1;0;0;0
+359;Bodrožić Ivana;Node_alt_359;1;2010;1;1;0;0
+360;Böll Heinrich;Node_alt_360;0;1964;1;1;1;1
+361;Borgo Sainz Karina;Node_alt_361;1;2019;3;1;0;0
+362;Bradley Alan;Node_alt_362;0;2013;2;0;0;0
+363;Brooks Geraldine;Node_alt_363;1;2006;6;0;0;1
+364;Brooks Terry;Node_alt_364;0;1977;2;0;0;0
+365;Brown Daniel;Node_alt_365;0;2004;2;0;0;1
+366;Burroughs William S;Node_alt_366;0;1963;2;0;0;0
+367;Caldwell Erskine;Node_alt_367;0;1933;2;0;0;0
+368;Canetti Elias;Node_alt_368;0;1935;1;1;1;1
+369;Carey Peter;Node_alt_369;0;2006;6;0;0;1
+370;Carpentier Alejo;Node_alt_370;0;1952;3;1;0;0
+371;Cărtărescu Mircea;Node_alt_371;0;1996;1;1;0;0
+372;Casares Adolfo Bioy;Node_alt_372;0;1940;3;1;0;0
+373;Castaneda Carlos;Node_alt_373;0;1978;3;0;0;0
+374;Cave Nick;Node_alt_374;0;1989;6;0;0;0
+375;Cela Camilo José;Node_alt_375;0;1942;1;1;1;1
+376;Cercas Javier;Node_alt_376;0;2001;1;1;0;0
+377;Chandra Vikram;Node_alt_377;0;2006;4;0;0;0
+378;Chang Jung;Node_alt_378;1;1991;4;0;0;1
+379;Chavarría Daniel;Node_alt_379;0;1994;3;1;0;0
+380;Guevara Ernesto;Node_alt_380;0;1992;3;1;0;0
+381;Cixin Liu;Node_alt_381;0;2008;4;1;0;1
+382;Clancy Tom;Node_alt_382;0;1986;2;0;0;0
+383;Clark Georgia;Node_alt_383;1;2016;6;0;0;0
+384;Cobb Humphrey;Node_alt_384;0;1935;2;0;0;0
+385;Cole Teju;Node_alt_385;0;2011;5;1;0;0
+386;Coloane Francisco;Node_alt_386;0;1956;3;1;0;0
+387;Correa Armando Lucas;Node_alt_387;0;2016;3;1;0;0
+388;Cortázar Julio;Node_alt_388;0;1956;3;1;0;0
+389;Cossery Albert;Node_alt_389;0;1948;5;1;0;0
+390;Couto Mia;Node_alt_390;0;2011;5;1;0;1
+391;Crane Stephen;Node_alt_391;0;1893;2;0;0;0
+392;Dahl Roald;Node_alt_392;0;1963;1;0;0;1
+393;Dalton Trent;Node_alt_393;0;2018;6;0;0;0
+394;d'Annunzio Gabriele;Node_alt_394;0;1889;1;1;0;0
+395;De Amicis Edmondo;Node_alt_395;0;1886;1;1;0;0
+396;de Balzac Honoré;Node_alt_396;0;1834;1;1;0;0
+397;de Beauvoir Simone;Node_alt_397;1;1952;1;1;0;0
+398;Deledda Grazia;Node_alt_398;1;1928;1;1;1;1
+399;Delijani Sahar;Node_alt_399;1;2013;4;0;0;0
+400;De Pontes Peebles Frances;Node_alt_400;1;2018;3;1;0;0
+401;de Sade Marquis;Node_alt_401;0;1791;1;1;0;0
+402;Desai Anita;Node_alt_402;1;1986;4;0;0;0
+403;Díaz Junot;Node_alt_403;0;2005;3;0;0;1
+404;Dirie Waris;Node_alt_404;1;1998;5;0;0;0
+405;Divakaruni Chitra Banerjee;Node_alt_405;1;2004;4;0;0;0
+406;Djebar Assia;Node_alt_406;1;1996;5;1;0;1
+407;Doshi Tishani;Node_alt_407;1;2010;4;0;0;0
+408;Douaihy Jabbour;Node_alt_408;0;2010;4;1;0;0
+409;Dovlatov Sergei;Node_alt_409;0;1983;1;1;0;0
+410;Dueñas María;Node_alt_410;1;2015;1;1;0;0
+411;Emezi Akwaeke;Node_alt_411;1;2018;5;0;0;1
+412;Endō Shūsaku;Node_alt_412;0;1966;4;1;0;0
+413;Twan Eng Tan;Node_alt_413;0;2010;4;0;0;0
+414;Enríquez Mariana;Node_alt_414;1;2016;3;1;0;0
+415;Ernaux Annie;Node_alt_415;1;1988;1;1;0;0
+416;Erpenbeck Jenny;Node_alt_416;1;2008;1;1;0;1
+417;Escobar Melba;Node_alt_417;1;2015;3;1;0;0
+418;Esquivel Laura;Node_alt_418;1;2014;3;1;0;0
+419;Eteraz Ali;Node_alt_419;0;2009;4;0;0;0
+420;Ferguson Will;Node_alt_420;0;1998;2;0;0;0
+421;Flanagan Richard;Node_alt_421;0;2006;6;0;0;1
+422;Fogazzaro Antonio;Node_alt_422;0;1895;1;1;0;0
+423;Foroutan Parnaz;Node_alt_423;1;2015;4;0;0;0
+424;Fraillon Zana;Node_alt_424;1;2016;6;0;0;0
+425;Frame Janet;Node_alt_425;1;1982;6;0;0;0
+426;France Anatole;Node_alt_426;0;1899;1;1;1;1
+427;Fuentes Carlos;Node_alt_427;0;1985;3;1;0;0
+428;Gallmann Kuki;Node_alt_428;1;1991;5;0;0;0
+429;Gamboa Santiago;Node_alt_429;0;2016;3;1;0;0
+430;Gappah Petina;Node_alt_430;1;2012;5;0;0;0
+431;Ghosh Amitav;Node_alt_431;0;2009;4;0;0;1
+432;Glass Emma;Node_alt_432;1;2018;1;0;0;0
+433;Gordimer Nadine;Node_alt_433;1;1980;5;0;1;1
+434;Grenville Kate;Node_alt_434;1;2005;6;0;0;0
+435;Grimm Jacob Wilhelm;Node_alt_435;0;1812;1;1;0;0
+436;Grisham John;Node_alt_436;0;1994;2;0;0;1
+437;Grossman David;Node_alt_437;0;2004;4;1;0;1
+438;Grossman Vasily;Node_alt_438;0;1975;1;1;0;0
+439;Gundar-Goshen Ayelet;Node_alt_439;1;2013;4;1;0;0
+440;Gyasi Yaa;Node_alt_440;1;2016;5;0;0;1
+441;El Hachmi Najat;Node_alt_441;1;2008;5;1;0;0
+442;Hammett Dashiell;Node_alt_442;0;1930;2;0;0;0
+443;Hampson Amanda;Node_alt_443;1;2016;6;0;0;0
+444;Ham Rosalie;Node_alt_444;1;1973;6;0;0;0
+445;Handke Peter;Node_alt_445;0;1976;1;1;1;1
+446;Hartnett Sonya;Node_alt_446;1;2013;6;0;0;0
+447;Hawthorne Nathaniel;Node_alt_447;0;1851;2;0;0;0
+448;Hay Ashley;Node_alt_448;1;2013;6;0;0;0
+449;Hedayat Sadeq;Node_alt_449;0;1934;4;1;0;0
+450;Heng Rachel;Node_alt_450;1;2018;4;0;0;0
+451;Hepworth Sally;Node_alt_451;1;2015;6;0;0;0
+452;Hirata Andrea;Node_alt_452;0;2005;4;1;0;0
+453;Høeg Peter;Node_alt_453;0;1992;1;1;0;0
+454;Howard Robert;Node_alt_454;0;1950;2;0;0;0
+455;Hua Yu;Node_alt_455;0;2004;4;1;0;0
+456;Hubbard Ron;Node_alt_456;0;1982;2;0;0;0
+457;Ibrahim Djamila;Node_alt_457;1;2018;5;0;0;0
+458;Irving Washington;Node_alt_458;0;1820;2;0;0;0
+459;James EL;Node_alt_459;1;2012;1;0;0;1
+460;Jebreal Rula;Node_alt_460;1;2004;4;1;0;0
+461;Jian Ma;Node_alt_461;0;2009;4;1;0;0
+462;Johnson Uwe;Node_alt_462;0;1970;1;1;0;0
+463;Jones Diana;Node_alt_463;1;1986;1;0;0;0
+464;Jordan Toni;Node_alt_464;1;2016;6;0;0;0
+465;Jufresa Laia;Node_alt_465;1;2015;3;1;0;0
+466;Jünger Ernst;Node_alt_466;0;1920;1;1;0;0
+467;Kakuta Mitsuyo;Node_alt_467;1;2007;4;1;0;0
+468;Kandasamy Meena;Node_alt_468;1;2017;4;0;0;1
+469;Kan Karoline;Node_alt_469;1;2019;4;0;0;0
+470;Kawaguchi Toshikazu;Node_alt_470;0;2015;4;1;0;0
+471;Kawakami Mieko;Node_alt_471;1;2008;4;1;0;1
+472;Kazantzakis Nikos;Node_alt_472;0;1949;1;1;0;0
+473;Kehlmann Daniel;Node_alt_473;0;2013;1;1;0;0
+474;Kent Hannah;Node_alt_474;1;2015;6;0;0;0
+475;Kertész Imre;Node_alt_475;0;1983;1;1;1;1
+476;Khadra Yasmina;Node_alt_476;0;2006;5;1;0;0
+477;Khal Abdo;Node_alt_477;0;2016;4;1;0;0
+478;Khalifa Khaled;Node_alt_478;0;2011;4;1;0;1
+479;Un-su Kim;Node_alt_479;0;2010;4;1;0;0
+480;Kincaid Jamaica;Node_alt_480;1;1996;3;0;0;0
+481;Kirino Natsuo;Node_alt_481;1;2001;4;1;0;0
+482;Krien Daniela;Node_alt_482;1;2011;1;1;0;0
+483;Kulin Ayşe;Node_alt_483;1;2002;4;1;0;0
+484;Kureishi Hanif;Node_alt_484;0;1990;1;0;0;0
+485;Kurniawan Eka;Node_alt_485;0;2008;4;1;0;0
+486;Lange Norah;Node_alt_486;1;1950;3;1;0;0
+487;Lapena Shari;Node_alt_487;1;2018;2;0;0;0
+488;Lawrence DH;Node_alt_488;0;1920;1;0;0;0
+489;Laxness Halldór;Node_alt_489;0;1943;1;1;1;1
+490;Lee Jung-Myung;Node_alt_490;0;2016;4;1;0;0
+491;Lee Krys;Node_alt_491;1;2017;4;0;0;0
+492;Lemebel Pedro;Node_alt_492;0;2001;3;1;0;0
+493;Lessing Doris;Node_alt_493;1;1987;1;0;1;1
+494;Lewis Sinclair;Node_alt_494;0;1923;2;0;1;1
+495;Lianke Yan;Node_alt_495;0;2005;4;1;0;1
+496;Lilin Nicolai;Node_alt_496;0;2009;1;1;0;0
+497;Link Charlotte;Node_alt_497;1;2000;1;1;0;0
+498;Vargas Llosa Mario;Node_alt_498;0;1982;3;1;1;1
+499;Loe Erlend;Node_alt_499;0;2004;1;1;0;0
+500;Lokko Lesley;Node_alt_500;1;2010;5;0;0;0
+501;Luiselli Valeria;Node_alt_501;1;2019;3;0;0;1
+502;Maalouf Amin;Node_alt_502;0;2000;4;1;0;0
+503;Maarouf Mazen;Node_alt_503;0;2019;4;1;0;0
+504;Mabanckou Alain;Node_alt_504;0;2007;5;1;0;0
+505;Machen Arthur;Node_alt_505;0;1895;1;0;0;0
+506;Mahfuz Nagib;Node_alt_506;0;1957;5;1;1;1
+507;Mailer Norman;Node_alt_507;0;1970;2;0;0;1
+508;Ling Ma;Node_alt_508;1;2018;4;0;0;0
+509;Malouf David;Node_alt_509;0;2001;6;0;0;1
+510;Manicka Rani;Node_alt_510;1;2002;4;0;0;0
+511;Mansfield Katherine;Node_alt_511;1;1921;6;0;0;0
+512;Manta Lena;Node_alt_512;1;2017;4;1;0;0
+513;Manzoni Alessandro;Node_alt_513;0;1825;1;1;0;0
+514;Maraini Dacia;Node_alt_514;1;2008;1;1;0;0
+515;Markandaya Kamala;Node_alt_515;1;1954;4;0;0;0
+516;Martínez Guillermo;Node_alt_516;0;2003;3;1;0;0
+517;Matlwa Kopano;Node_alt_517;1;2016;5;0;0;0
+518;Matsumoto Seichō;Node_alt_518;0;1971;4;1;0;0
+519;Somerset William;Node_alt_519;0;1931;1;0;0;0
+520;du Maurier Daphne;Node_alt_520;1;1947;1;0;0;1
+521;Mbue Imbolo;Node_alt_521;1;2016;5;0;0;0
+522;McCullough Colleen;Node_alt_522;1;1987;6;0;0;1
+523;Mda Zakes;Node_alt_523;0;2000;5;0;0;0
+524;Mehran Marsha;Node_alt_524;1;2013;4;1;0;0
+525;Mengestu Dinaw;Node_alt_525;0;2014;5;0;0;0
+526;Mengiste Maaza;Node_alt_526;1;2010;5;0;0;0
+527;Mernissi Fatima;Node_alt_527;1;1994;5;0;0;0
+528;Meyer Deon;Node_alt_528;0;2002;5;1;0;0
+529;Meyer Stephenie;Node_alt_529;1;2007;2;0;0;1
+530;Millar Margaret;Node_alt_530;1;1966;2;0;0;0
+531;Minato Kanae;Node_alt_531;1;2008;4;1;0;0
+532;Monge Emiliano;Node_alt_532;0;2012;3;1;0;0
+533;Montalbán Manuel;Node_alt_533;0;1978;1;1;0;0
+534;Morgan Sally;Node_alt_534;1;1987;6;0;0;0
+535;Moriarty Liane;Node_alt_535;1;2009;6;0;0;0
+536;Morris Heather;Node_alt_536;1;2018;6;0;0;0
+537;Morton Kate;Node_alt_537;1;2012;6;0;0;0
+538;Mukherjee Neel;Node_alt_538;0;2014;4;0;0;0
+539;Müller Herta;Node_alt_539;1;2009;1;1;1;1
+540;Murakami Ryū;Node_alt_540;0;1976;4;1;0;0
+541;Murata Sayaka;Node_alt_541;1;2016;4;1;0;1
+542;Nafisi Azar;Node_alt_542;1;2006;4;0;0;0
+543;Naipaul VS;Node_alt_543;0;1975;3;0;1;1
+544;Nair Anita;Node_alt_544;1;2003;4;0;0;0
+545;Nettel Guadalupe;Node_alt_545;1;2013;3;1;0;1
+546;Neuman Andrés;Node_alt_546;0;2018;3;1;0;0
+547;Nevo Eshkol;Node_alt_547;0;2011;4;1;0;0
+548;Nievo Ippolito;Node_alt_548;0;1867;1;1;0;0
+549;Noah Trevor;Node_alt_549;0;2016;5;0;0;0
+550;Obioma Chigozie;Node_alt_550;0;2015;5;0;0;0
+551;Ōe Kenzaburō;Node_alt_551;0;1991;4;1;1;1
+552;Ogawa Yōko;Node_alt_552;1;1996;4;1;0;1
+553;Ohanesian Aline;Node_alt_553;1;2015;4;0;0;0
+554;Omotoso Yewande;Node_alt_554;1;2016;5;0;0;0
+555;Onuzo Chibundu;Node_alt_555;1;2012;5;0;0;0
+556;Orga Irfan;Node_alt_556;0;1950;4;1;0;0
+557;Oyeyemi Helen;Node_alt_557;1;2014;1;0;0;0
+558;Pacat CS;Node_alt_558;1;2018;6;0;0;0
+559;Pamuk Orhan;Node_alt_559;0;1993;4;1;1;1
+560;Park Yeonmi;Node_alt_560;1;2015;4;0;0;0
+561;Passarlay Gulwali;Node_alt_561;0;2015;4;0;0;0
+562;Passos John Dos;Node_alt_562;0;1930;2;0;0;0
+563;Patterson James;Node_alt_563;0;2001;2;0;0;0
+564;Pelevin Victor;Node_alt_564;0;1998;1;1;0;0
+565;Pennac Daniel;Node_alt_565;0;1984;1;1;0;0
+566;Perec Georges;Node_alt_566;0;1993;1;1;0;0
+567;Pérez-Reverte Arturo;Node_alt_567;0;1999;1;1;0;0
+568;Piglia Ricardo;Node_alt_568;0;2001;3;1;0;0
+569;Piñeiro Claudia;Node_alt_569;1;2007;3;1;0;0
+570;Platonov Andrei;Node_alt_570;0;1996;1;1;0;0
+571;Queneau Raymond;Node_alt_571;0;1965;1;1;0;0
+572;El Rashidi Yasmine;Node_alt_572;1;2016;5;0;0;0
+573;Revueltas José;Node_alt_573;0;1969;3;1;0;0
+574;Reyes Emma;Node_alt_574;1;2012;3;1;0;0
+575;Ringland Holly;Node_alt_575;1;2018;6;0;0;0
+576;Roberts Gregory;Node_alt_576;0;2009;6;0;0;0
+577;Roberts Nora;Node_alt_577;1;1997;2;0;0;0
+578;Roncagliolo Santiago;Node_alt_578;0;2006;3;1;0;1
+579;Roy Arundhati;Node_alt_579;1;2007;4;0;0;1
+580;Rulfo Juan;Node_alt_580;0;1954;3;1;0;0
+581;al-Sa'dawi Nawal;Node_alt_581;1;1973;5;1;0;0
+582;Sabato Ernesto;Node_alt_582;0;1955;3;1;0;0
+583;Sacheri Eduardo;Node_alt_583;0;2005;3;1;0;0
+584;Sakuraba Kazuki;Node_alt_584;1;2015;4;1;0;0
+585;Salih Tayeb;Node_alt_585;0;1966;5;1;0;0
+586;Salmawy Mohamed;Node_alt_586;0;2014;5;1;0;0
+587;Sánchez Clara;Node_alt_587;1;2010;1;1;0;0
+588;Sansal Boualem;Node_alt_588;0;2012;5;1;0;0
+589;Sapienza Goliarda;Node_alt_589;1;1994;1;1;0;0
+590;Sartre Jean-Paul;Node_alt_590;0;1939;1;1;1;1
+591;Schami Rafik;Node_alt_591;0;2000;4;1;0;0
+592;Schätzing Frank;Node_alt_592;0;1995;1;1;0;0
+593;Schweblin Samanta;Node_alt_593;1;2016;3;1;0;1
+594;Sciascia Leonardo;Node_alt_594;0;1966;1;1;0;0
+595;Seghers Anna;Node_alt_595;1;1942;1;1;0;0
+596;Sendker Jan-Philipp;Node_alt_596;0;2005;1;1;0;0
+597;Seth Vikram;Node_alt_597;0;1990;4;0;0;1
+598;Shafak Elif;Node_alt_598;1;2006;4;0;0;0
+599;Shalamov Varlam;Node_alt_599;0;1973;1;1;0;0
+600;Shalev Meir;Node_alt_600;0;1994;4;1;0;0
+601;Shalev Zeruya;Node_alt_601;1;2014;4;1;0;0
+602;Shamsie Kamila;Node_alt_602;1;2013;4;0;0;1
+603;Shanbhag Vivek;Node_alt_603;0;2015;4;1;0;1
+604;She Lao;Node_alt_604;0;1937;4;1;0;0
+605;Shin Kyung-sook;Node_alt_605;1;2014;4;1;0;0
+606;Shoneyin Lola;Node_alt_606;1;2010;5;0;0;0
+607;Yoshida Shūichi;Node_alt_607;0;2002;4;1;0;0
+608;Sidhwa Bapsi;Node_alt_608;1;1991;4;0;0;0
+609;Simsion Graeme;Node_alt_609;0;2013;6;0;0;0
+610;Singer Isaac;Node_alt_610;0;1978;1;1;1;1
+611;Singh Khushwant;Node_alt_611;0;1956;4;0;0;0
+612;Slimani Leïla;Node_alt_612;1;2015;5;1;0;1
+613;Hwang Sok-yong;Node_alt_613;0;2014;4;1;0;0
+614;Sholokhov Mikhail;Node_alt_614;0;1928;1;1;1;1
+615;Sönmez Burhan;Node_alt_615;0;2015;4;1;0;0
+616;Souad Souad;Node_alt_616;1;2003;4;1;0;0
+617;Soyinka Wole;Node_alt_617;0;2007;5;0;1;1
+618;Stein Gertrude;Node_alt_618;1;1926;2;0;0;0
+619;St John Madeleine;Node_alt_619;1;1993;6;0;0;0
+620;Stowe Harriet;Node_alt_620;1;1864;2;0;0;0
+621;Sukegawa Durian;Node_alt_621;0;2015;4;1;0;0
+622;Suzuki Kōji;Node_alt_622;0;1995;4;1;0;0
+623;Swarup Vikas;Node_alt_623;0;2009;4;0;0;0
+624;Taibo II Paco Ignacio;Node_alt_624;0;1985;3;1;0;0
+625;Takagi Akimitsu;Node_alt_625;0;1999;4;1;0;0
+626;Tanizaki Jun'ichirō;Node_alt_626;0;1938;4;1;0;1
+627;Tanpınar Ahmet Hamdi;Node_alt_627;0;1951;4;1;0;0
+628;Tawada Yoko;Node_alt_628;1;2014;4;1;0;0
+629;Teo Sharlene;Node_alt_629;1;2018;4;0;0;0
+630;Thiong'o Ngũgĩ wa;Node_alt_630;0;1992;5;1;0;0
+631;Thúy Kim;Node_alt_631;1;2009;4;1;0;0
+632;Toews Miriam;Node_alt_632;1;2014;2;0;0;0
+633;Travers PL;Node_alt_633;1;1934;6;0;0;0
+634;Tsiolkas Christos;Node_alt_634;0;2008;6;0;0;0
+635;Tutuola Amos;Node_alt_635;0;1954;5;0;0;0
+636;Ung Loung;Node_alt_636;1;2000;4;0;0;0
+637;van Niekerk Marlene;Node_alt_637;1;2004;5;1;0;0
+638;Vásquez Juan Gabriel;Node_alt_638;0;2009;3;1;0;0
+639;Verga Giovanni;Node_alt_639;0;1881;1;1;0;0
+640;Viggers Karen;Node_alt_640;1;2011;6;0;0;0
+641;von Arnim Elizabeth;Node_alt_641;1;1916;6;0;0;0
+642;von Kleist Heinrich;Node_alt_642;0;1809;1;1;0;0
+643;Wainaina Binyavanga;Node_alt_643;0;2011;5;0;0;0
+644;Wamariya Clemantine;Node_alt_644;1;2018;5;0;0;0
+645;Wataya Risa;Node_alt_645;1;2003;4;1;0;0
+646;West Morris;Node_alt_646;0;1966;6;0;0;0
+647;White Patrick;Node_alt_647;0;1985;6;0;1;1
+648;Wilder Thornton;Node_alt_648;0;1927;2;0;0;1
+649;Winton Tim;Node_alt_649;0;2004;6;0;0;0
+650;Witting Amy;Node_alt_650;1;1990;6;0;0;0
+651;Wolf Christa;Node_alt_651;1;1980;1;1;0;0
+652;Xiaolong Qiu;Node_alt_652;0;2005;4;0;0;0
+653;Xilonen Aura;Node_alt_653;1;2015;3;1;0;0
+654;Xingjian Gao;Node_alt_654;0;1988;4;1;1;1
+655;Xueqin Cao;Node_alt_655;0;1792;4;1;0;0
+656;Yan Mo;Node_alt_656;0;1996;4;1;1;1
+657;Yehoshua Abraham;Node_alt_657;0;2004;4;1;0;0
+658;Yousafzai Malala;Node_alt_658;1;2013;4;0;0;0
+659;Zail Suzy;Node_alt_659;1;2012;6;0;0;0
+660;Zusak Markus;Node_alt_660;0;2004;6;0;0;0
+661;Zweig Stefan;Node_alt_661;0;1941;1;1;0;0
+662;Achaari Mohammed;Node_alt_662;0;2010;5;1;0;0
+663;Adams Douglas;Node_alt_663;0;1979;1;0;0;1
+664;Adams Richard;Node_alt_664;0;1975;1;0;0;1
+665;Ahmad Jamil;Node_alt_665;0;2011;4;0;0;1
+666;Aira César;Node_alt_666;0;2002;3;1;0;0
+667;El Akkad Omar;Node_alt_667;0;2017;5;0;0;0
+668;Akutagawa Ryunosuke;Node_alt_668;0;1915;4;1;0;0
+669;Altan Ahmet;Node_alt_669;0;2007;4;1;0;0
+670;Alvarez Julia;Node_alt_670;1;1994;3;0;0;0
+671;Amis Kingsley;Node_alt_671;0;1981;1;0;0;1
+672;Anappara Deepa;Node_alt_672;1;2020;4;0;0;0
+673;Andrews VC;Node_alt_673;1;1980;2;0;0;0
+674;Angelou Maya;Node_alt_674;1;1982;2;0;0;0
+675;Ansay A. Manette;Node_alt_675;1;1994;2;0;0;0
+676;Archer Jeffrey;Node_alt_676;0;1989;1;0;0;1
+677;de Assis Machado Joaquim Maria;Node_alt_677;0;1890;3;1;0;0
+678;Bach Richard;Node_alt_678;0;1977;2;0;0;0
+679;Baldwin James;Node_alt_679;0;1957;2;0;0;0
+680;Banville John;Node_alt_680;0;1997;1;0;0;1
+681;Barker Pat;Node_alt_681;1;2007;1;0;0;1
+682;Barnes Djuna;Node_alt_682;1;1936;2;0;0;0
+683;Barrie James Matthew;Node_alt_683;0;1911;1;0;0;0
+684;Beatty Paul;Node_alt_684;0;2008;2;0;0;1
+685;Benchley Peter;Node_alt_685;0;1974;2;0;0;0
+686;Benedetti Mario;Node_alt_686;0;1960;3;1;0;0
+687;Binchy Maeve;Node_alt_687;1;1996;1;0;0;1
+688;Blatty William;Node_alt_688;0;1971;2;0;0;0
+689;Bloch Robert;Node_alt_689;0;1953;2;0;0;0
+690;Blyton Enid;Node_alt_690;1;1948;1;0;0;0
+691;Braddon Mary;Node_alt_691;1;1877;1;0;0;0
+692;Bradley Marion;Node_alt_692;1;1964;2;0;0;0
+693;Brink Andre;Node_alt_693;0;1989;5;0;0;0
+694;Bromfield Louis;Node_alt_694;0;1932;2;0;0;1
+695;Brontë Anne;Node_alt_695;1;1848;1;0;0;0
+696;Brookner Anita;Node_alt_696;1;1995;1;0;0;1
+697;Brown Fredric;Node_alt_697;0;1955;2;0;0;0
+698;Buarque Chico;Node_alt_698;0;2014;3;1;0;0
+699;Buchan John;Node_alt_699;0;1916;1;0;0;0
+700;Buck Pearl S.;Node_alt_700;1;1937;2;0;1;1
+701;Burney Frances;Node_alt_701;1;1794;1;0;0;0
+702;Burns Anna;Node_alt_702;1;2018;1;0;0;1
+703;Burroughs Edgar;Node_alt_703;0;1914;2;0;0;0
+704;Butler Samuel;Node_alt_704;0;1872;1;0;0;0
+705;Buzzati Dino;Node_alt_705;0;1940;1;1;0;0
+706;Campbell John;Node_alt_706;0;1944;2;0;0;0
+707;Catton Eleanor;Node_alt_707;1;2013;6;0;0;1
+708;Celine Louis Ferdinand;Node_alt_708;0;1947;1;1;0;0
+709;Charriere Henri;Node_alt_709;0;1971;1;1;0;0
+710;Chopin Kate;Node_alt_710;1;1895;2;0;0;0
+711;Clark Mary;Node_alt_711;1;1980;2;0;0;0
+712;Clavell James;Node_alt_712;0;1981;6;0;0;0
+713;Cleland John;Node_alt_713;0;1748;1;0;0;0
+714;Collins Suzanne;Node_alt_714;1;2009;2;0;0;0
+715;Collins Wilkie;Node_alt_715;0;1864;1;0;0;1
+716;Dazai Osamu;Node_alt_716;0;1948;4;1;0;0
+717;Defoe Daniel;Node_alt_717;0;1721;1;0;0;1
+718;de Roberto Federico;Node_alt_718;0;1894;1;1;0;0
+719;Döblin Alfred;Node_alt_719;0;1929;1;1;0;0
+720;Doctorow EL;Node_alt_720;0;1975;2;0;0;0
+721;Doerr Anthony;Node_alt_721;0;2009;2;0;0;1
+722;Donleavy JP;Node_alt_722;0;1955;2;0;0;0
+723;Douglass Frederick;Node_alt_723;0;1855;2;0;0;0
+724;Doxiadis Apostolos;Node_alt_724;0;1992;1;1;0;0
+725;Doyle Roddy;Node_alt_725;0;2002;1;0;0;1
+726;Edgeworth Maria;Node_alt_726;1;1808;1;0;0;0
+727;Ellison Ralph;Node_alt_727;0;1952;2;0;0;1
+728;Emecheta Buchi;Node_alt_728;1;1974;5;0;0;0
+729;Ende Michael;Node_alt_729;0;1976;1;1;0;0
+730;Evans Nicholas;Node_alt_730;0;1997;1;0;0;0
+731;Evaristo Bernardine;Node_alt_731;1;2019;1;0;0;1
+732;Fallaci Oriana;Node_alt_732;1;1975;1;1;0;0
+733;Farrell James Gordon;Node_alt_733;0;1972;1;0;0;1
+734;Faye Gaël;Node_alt_734;0;2016;5;1;0;0
+735;Feiyu Bi;Node_alt_735;0;2002;4;1;0;0
+736;Melchor Fernanda;Node_alt_736;1;2017;3;1;0;1
+737;Fielding Henry;Node_alt_737;0;1747;1;0;0;0
+738;Fitch Janet;Node_alt_738;1;1999;2;0;0;0
+739;Fitzgerald Penelope;Node_alt_739;1;1979;1;0;0;1
+740;Fontane Theodor;Node_alt_740;0;1895;1;1;0;0
+741;Forster Edward Morgan;Node_alt_741;0;1924;1;0;0;0
+742;Forsyth Frederick;Node_alt_742;0;1978;1;0;0;0
+743;Fowles John;Node_alt_743;0;1971;1;0;0;1
+744;Freeman Ru;Node_alt_744;1;2011;4;0;0;0
+745;Frey James;Node_alt_745;0;2004;2;0;0;0
+746;Gaarder Jostein;Node_alt_746;0;1997;1;1;0;0
+747;Gaddis William;Node_alt_747;0;1975;2;0;0;1
+748;Galdos Benito Perez;Node_alt_748;0;1897;1;1;0;0
+749;Gardner Erle Stanley;Node_alt_749;0;1933;2;0;0;0
+750;Gaskell Elizabeth;Node_alt_750;1;1858;1;0;0;0
+751;Genet Jean;Node_alt_751;0;1946;1;1;0;0
+752;Glasgow Ellen;Node_alt_752;1;1941;2;0;0;1
+753;Glyn Elinor;Node_alt_753;1;1907;1;0;0;0
+754;Goldsmith Oliver;Node_alt_754;0;1769;1;0;0;0
+755;Grahame Kenneth;Node_alt_755;0;1908;1;0;0;1
+756;Greer Andrew Sean;Node_alt_756;0;2017;2;0;0;1
+757;Gurnah Abdulrazak;Node_alt_757;0;2007;5;0;1;1
+758;Hachtroudi Fariba;Node_alt_758;1;2016;4;1;0;0
+759;Haggard Rider;Node_alt_759;0;1896;1;0;0;0
+760;Haley Alex;Node_alt_760;0;1976;2;0;0;0
+761;Halfon Eduardo;Node_alt_761;0;2008;3;1;0;0
+762;Haratischwili Nino;Node_alt_762;1;2014;4;1;0;0
+763;Harding Paul;Node_alt_763;0;2001;2;0;0;1
+764;Hašek Jaroslav;Node_alt_764;0;1923;1;1;0;0
+765;Hegi Ursula;Node_alt_765;1;1994;1;0;0;0
+766;Heinlein Robert A.;Node_alt_766;0;1961;2;0;0;0
+767;Heller Joseph;Node_alt_767;0;1961;2;0;0;1
+768;Herbert Frank;Node_alt_768;0;1965;2;0;0;1
+769;Herlihy James;Node_alt_769;0;1965;2;0;0;0
+770;Hernandez Felisberto;Node_alt_770;0;1993;3;1;0;0
+771;Herrera Yuri;Node_alt_771;0;2009;3;1;0;1
+772;Heyer Georgette;Node_alt_772;1;1930;1;0;0;0
+773;Higgins Jack;Node_alt_773;0;1975;1;0;0;0
+774;Hilton James;Node_alt_774;0;1934;1;0;0;0
+775;Hinton SE;Node_alt_775;1;1967;2;0;0;0
+776;Hollinghurst Alan;Node_alt_776;0;1996;1;0;0;1
+777;Hume Fergus;Node_alt_777;0;1899;1;0;0;0
+778;Hustvedt Siri;Node_alt_778;1;2003;2;0;0;0
+779;Jacobson Howard;Node_alt_779;0;2012;1;0;0;1
+780;James Marlon;Node_alt_780;1;2014;3;0;0;1
+781;Jelloun Tahar Ben;Node_alt_781;0;2009;5;1;0;0
+782;Jhabvala Ruth Prawer;Node_alt_782;1;1975;1;0;0;1
+783;Jong Erica;Node_alt_783;1;1973;2;0;0;0
+784;Kadare Ismail;Node_alt_784;0;1988;1;1;0;1
+785;Kawakami Hiromi;Node_alt_785;1;1999;4;1;0;0
+786;Kennedy William;Node_alt_786;0;1983;2;0;0;1
+787;Kerr Judith;Node_alt_787;1;1971;1;0;0;0
+788;Khoury Elias;Node_alt_788;0;2003;4;1;0;0
+789;Kingsolver Barbara;Node_alt_789;1;1998;2;0;0;0
+790;Koestler Arthur;Node_alt_790;0;1940;1;1;0;0
+791;Koonchung Chan;Node_alt_791;1;2012;4;1;0;0
+792;Kuang RF;Node_alt_792;1;2018;4;0;0;0
+793;Kwan Kevin;Node_alt_793;0;2013;4;0;0;0
+794;Lagerkvist Pär;Node_alt_794;0;1947;1;1;1;1
+795;Lagerlöf Selma;Node_alt_795;1;1891;1;1;1;1
+796;LeBlanc Maurice;Node_alt_796;0;1911;1;1;0;0
+797;Le Fanu Sheridan;Node_alt_797;0;1868;1;0;0;0
+798;L'Engle Madeleine;Node_alt_798;1;1962;2;0;0;0
+799;Lermontov Mikhail;Node_alt_799;0;1840;1;1;0;0
+800;Leskov Nikolai;Node_alt_800;0;1873;1;1;0;0
+801;Lively Penelope;Node_alt_801;1;1981;5;0;0;1
+802;Li Yiyun;Node_alt_802;1;2012;4;0;0;1
+803;Lowry Lois;Node_alt_803;1;1993;2;0;0;0
+804;Lurie Alison;Node_alt_804;1;1984;2;0;0;1
+805;MacDonald Ann-Marie;Node_alt_805;1;1996;2;0;0;0
+806;Mai Que Nguyễn Phan;Node_alt_806;1;2020;4;0;0;0
+807;Majumdar Megha;Node_alt_807;1;2020;4;0;0;1
+808;Makumbi Nansubuga Jennifer;Node_alt_808;1;2017;5;0;0;0
+809;Mantel Hilary;Node_alt_809;1;2011;1;0;0;1
+810;Puzo Mario;Node_alt_810;0;1969;2;0;0;1
+811;Markaris Petros;Node_alt_811;0;2000;4;1;0;0
+812;Matar Hisham;Node_alt_812;0;2011;5;0;0;0
+813;Maturin Charles;Node_alt_813;0;1820;1;0;0;0
+814;McCourt Frank;Node_alt_814;0;1996;1;0;0;0
+815;McLeod Cynthia;Node_alt_815;1;1987;3;1;0;0
+816;Metalious Grace;Node_alt_816;1;1956;2;0;0;0
+817;Millhauser Steven;Node_alt_817;0;1996;2;0;0;1
+818;Mitchell Margaret;Node_alt_818;1;1936;2;0;0;1
+819;Miyabe Miyuki;Node_alt_819;1;2004;4;1;0;0
+820;Montgomery LM;Node_alt_820;1;1908;2;0;0;1
+821;Mulisch Harry;Node_alt_821;0;1992;1;1;0;0
+822;Warren Patricia;Node_alt_822;1;1974;2;0;0;0
+823;Nelson Maggie;Node_alt_823;1;2015;2;0;0;1
+824;Nguyen Viet Thanh;Node_alt_824;0;2016;4;0;0;1
+825;Ondaatje Michael;Node_alt_825;0;1992;4;0;0;1
+826;Oppenheim Edward Phillips;Node_alt_826;0;1925;1;0;0;0
+827;Orczy Emma;Node_alt_827;1;1910;1;0;0;0
+828;Ozeki Ruth;Node_alt_828;1;2013;2;0;0;0
+829;Parkin Gaile;Node_alt_829;1;2009;5;0;0;0
+830;Pasolini Pier Paolo;Node_alt_830;0;1955;1;1;0;0
+831;Bowles Paul;Node_alt_831;0;1949;2;0;0;0
+832;Pierre DBC;Node_alt_832;0;2003;6;0;0;1
+833;Powers Richard;Node_alt_833;0;2018;2;0;0;1
+834;Puig Manuel;Node_alt_834;0;1973;3;1;0;0
+835;Queen Ellery;Node_alt_835;0;1931;2;0;0;0
+836;Radcliffe Ann;Node_alt_836;1;1792;1;0;0;0
+837;Rahimi Atiq;Node_alt_837;0;2006;4;1;0;0
+838;Rawlings Marjorie Kinnan;Node_alt_838;1;1938;2;0;0;1
+839;Reage Pauline;Node_alt_839;1;1954;1;1;0;0
+840;Reeve Clara;Node_alt_840;1;1778;1;0;0;0
+841;Renault Mary;Node_alt_841;1;1970;1;0;0;0
+842;Rendell Ruth;Node_alt_842;1;1981;1;0;0;0
+843;Restrepo Laura;Node_alt_843;1;2004;3;1;0;0
+844;Rhys Jean;Node_alt_844;1;1953;3;0;0;0
+845;Rice Anne;Node_alt_845;1;1991;2;0;0;0
+846;Richardson Samuel;Node_alt_846;0;1740;1;0;0;0
+847;Robbins Harold;Node_alt_847;0;1976;2;0;0;0
+848;Rogers Rosemary;Node_alt_848;1;1992;2;0;0;0
+849;Rong Jiang;Node_alt_849;0;2004;4;1;0;0
+850;Roth Joseph;Node_alt_850;0;1932;1;1;0;0
+851;Roth Veronica;Node_alt_851;1;2011;2;0;0;0
+852;Russo Meredith;Node_alt_852;1;2016;2;0;0;0
+853;Russo Richard;Node_alt_853;0;2001;2;0;0;1
+854;Sabatini Rafael;Node_alt_854;0;1919;1;0;0;0
+855;Sand George;Node_alt_855;1;1836;1;1;0;0
+856;Schlink Bernhard;Node_alt_856;0;1995;1;1;0;0
+857;Schwarz Christina;Node_alt_857;1;2000;2;0;0;0
+858;Segal Erich;Node_alt_858;0;1970;2;0;0;0
+859;Selasi Taiye;Node_alt_859;1;2013;5;0;0;1
+860;Selvadurai Shyam;Node_alt_860;0;1994;4;0;0;0
+861;Sewell Anna;Node_alt_861;1;1877;1;0;0;1
+862;Sharp Margery;Node_alt_862;1;1946;1;0;0;0
+863;Sheldon Sidney;Node_alt_863;0;1971;2;0;0;0
+864;Shields Carol;Node_alt_864;1;1993;2;0;0;1
+865;Shimada Soji;Node_alt_865;0;1982;4;1;0;0
+866;Shreve Anita;Node_alt_866;1;1998;2;0;0;0
+867;Sienkiewicz Henryk;Node_alt_867;0;1896;1;1;1;1
+868;Smith Zadie;Node_alt_868;1;2014;1;0;0;1
+869;Sontag Susan;Node_alt_869;1;1996;2;0;0;1
+870;Spyri Johanna;Node_alt_870;1;1880;1;1;0;0
+871;Stegner Wallace;Node_alt_871;0;1971;2;0;0;1
+872;Sterne Laurence;Node_alt_872;0;1764;1;0;0;0
+873;Stockett Kathryn;Node_alt_873;1;2009;2;0;0;0
+874;Stone Irving;Node_alt_874;0;1934;2;0;0;0
+875;Stout Rex;Node_alt_875;0;1935;2;0;0;0
+876;Stuart Douglas;Node_alt_876;0;2020;1;0;0;1
+877;Styron William;Node_alt_877;0;1973;2;0;0;1
+878;Tagore Rabindranath;Node_alt_878;0;1916;4;1;1;1
+879;Tarkington Booth;Node_alt_879;0;1920;2;0;0;1
+880;Tarttelin Abigail;Node_alt_880;1;2013;1;0;0;0
+881;Thirkell Angela;Node_alt_881;1;1937;1;0;0;0
+882;Toole John Kennedy;Node_alt_882;0;1980;2;0;0;1
+883;Townsend Sue;Node_alt_883;1;1982;1;0;0;0
+884;Trollope Anthony;Node_alt_884;0;1868;1;0;0;0
+885;Tucker Wilson;Node_alt_885;0;1962;2;0;0;0
+886;Tyler Anne;Node_alt_886;1;1988;2;0;0;1
+887;Tyszka Alberto Barrera;Node_alt_887;0;2006;3;1;0;0
+888;Updike John;Node_alt_888;0;1981;2;0;0;1
+889;Van Dine SS;Node_alt_889;0;1928;2;0;0;0
+890;Vidal Gore;Node_alt_890;0;1946;2;1;0;0
+891;Villalobos Juan Pablo;Node_alt_891;0;2016;3;1;0;0
+892;Novalis Novalis;Node_alt_892;0;1802;1;1;0;0
+893;Wallace Lew;Node_alt_893;0;1880;2;0;0;0
+894;Walser Robert;Node_alt_894;0;1908;1;1;0;0
+895;Wambaugh Joseph;Node_alt_895;0;1977;2;0;0;0
+896;Wells HG;Node_alt_896;0;1896;1;0;0;0
+897;Welty Eudora;Node_alt_897;1;1972;2;0;0;1
+898;Westlake Donald;Node_alt_898;0;1966;2;0;0;0
+899;Whitehead Colson;Node_alt_899;0;2018;2;0;0;1
+900;Winfrey Oprah;Node_alt_900;1;2014;2;0;0;0
+901;Wouk Herman;Node_alt_901;0;1951;2;0;0;1
+902;Wyndham John;Node_alt_902;0;1952;2;0;0;0
+903;Young William;Node_alt_903;0;2007;2;0;0;0
+904;Zambra Alejandro;Node_alt_904;0;2009;3;1;0;0
+905;Faber Michael;Node_alt_905;0;2002;1;0;0;0
+906;Butler Octavia;Node_alt_906;1;1986;2;0;0;0
+907;Miller Madeline;Node_alt_907;1;2015;2;0;0;1
+908;Serrano Marcela;Node_alt_908;1;2011;3;1;0;0
+909;Smith Wilbur;Node_alt_909;0;1975;1;0;0;1
+910;Aboulela Leila;Node_alt_910;1;2010;5;0;0;0
+911;Acker Kathy;Node_alt_911;1;1984;2;0;0;0
+912;Adam Claire;Node_alt_912;1;2019;3;0;0;0
+913;Ali Monica;Node_alt_913;1;2006;4;0;0;1
+914;Alsanea Rajaa;Node_alt_914;1;2005;4;0;0;0
+915;al-Shaykh Hanan;Node_alt_915;1;1992;4;1;0;0
+916;Mutis Álvaro;Node_alt_916;0;1993;3;1;0;1
+917;Nhật Ánh Nguyễn;Node_alt_917;0;2007;4;1;0;0
+918;Arenas Reinaldo;Node_alt_918;0;1992;3;1;0;0
+919;Arthurs Alexia;Node_alt_919;1;2018;3;0;0;0
+920;Avery Ellis;Node_alt_920;1;2012;2;0;0;0
+921;Bader Ali;Node_alt_921;0;2005;4;1;0;0
+922;Bangqing Han;Node_alt_922;0;1892;4;1;0;0
+923;Barakat Ibtisam;Node_alt_923;1;2012;4;0;0;0
+924;Barakat Najwa;Node_alt_924;1;2014;4;1;0;0
+925;Barclay Florence L.;Node_alt_925;1;1909;1;0;0;0
+926;Barnes Margaret Ayer;Node_alt_926;1;1930;2;0;0;1
+927;Bastos Augusto Roa;Node_alt_927;0;1984;3;1;0;0
+928;Bennett Arnold;Node_alt_928;0;1908;1;0;0;0
+929;Okri Ben;Node_alt_929;0;1993;5;0;0;1
+930;Berg Elizabeth;Node_alt_930;1;2000;2;0;0;0
+931;Bibish Bibish;Node_alt_931;1;2008;4;1;0;0
+932;Bohjalian Chris;Node_alt_932;0;1997;2;0;0;0
+933;Boullosa Carmen;Node_alt_933;1;2000;3;1;0;0
+934;Bradley Edward;Node_alt_934;0;1855;1;0;0;0
+935;Brown Charles;Node_alt_935;0;1799;2;0;0;0
+936;Brown William Wells;Node_alt_936;0;1853;2;0;0;0
+937;Cartland Barbara;Node_alt_937;1;1967;1;0;0;0
+938;Cezair-Thompson Margaret;Node_alt_938;1;1999;3;0;0;0
+939;Channer Colin;Node_alt_939;0;2007;3;0;0;0
+940;Chatterji Bankimchandra;Node_alt_940;0;1882;4;1;0;0
+941;Chikwava Brian;Node_alt_941;0;2009;5;0;0;0
+942;Chiziane Paulina;Node_alt_942;1;2002;5;1;0;0
+943;Choden Kunzang;Node_alt_943;1;2009;4;0;0;0
+944;Chreiteh Alexandra;Node_alt_944;1;2009;4;1;0;0
+945;Clark Marcus;Node_alt_945;0;1870;1;0;0;0
+946;Cleage Pearl;Node_alt_946;1;1997;2;0;0;0
+947;Cooper Helene;Node_alt_947;1;2008;5;0;0;0
+948;Coover Robert;Node_alt_948;0;1977;2;0;0;0
+949;Corelli Marie;Node_alt_949;1;1891;1;0;0;0
+950;Couperus Louis;Node_alt_950;0;1889;1;1;0;0
+951;Cozzens James Gould;Node_alt_951;0;1948;2;0;0;1
+952;Dangarembga Tsitsi;Node_alt_952;1;2018;5;0;0;1
+953;Danticat Edwidge;Node_alt_953;1;1994;3;0;0;1
+954;Dao Bei;Node_alt_954;0;2010;4;1;0;0
+955;Davis Harold Lenoir;Node_alt_955;0;1935;2;0;0;1
+956;Dennis-Benn Nicole;Node_alt_956;1;2016;3;0;0;0
+957;de Recacoechea Juan;Node_alt_957;0;2007;3;1;0;0
+958;Desai Kiran;Node_alt_958;1;2006;4;0;0;1
+959;de Saint-Pierre Bernardin;Node_alt_959;0;1788;1;1;0;0
+960;Diop Boubacar Boris;Node_alt_960;0;2006;5;1;0;1
+961;Disraeli Benjamin;Node_alt_961;0;1845;1;0;0;0
+962;Dowlatabadi Mahmoud;Node_alt_962;0;2001;4;1;0;0
+963;Drury Allen;Node_alt_963;0;1968;2;0;0;1
+964;Dubus III Andre;Node_alt_964;0;1999;2;0;0;0
+965;Durham David Anthony;Node_alt_965;0;2007;2;0;0;0
+966;Elsir Amir Tag;Node_alt_966;0;2016;5;1;0;0
+967;Eltayeb Tarek;Node_alt_967;0;2012;5;1;0;0
+968;Enright Anne;Node_alt_968;1;2007;1;0;0;1
+969;Farah Nuruddin;Node_alt_969;0;1991;5;0;0;1
+970;Ferber Edna;Node_alt_970;1;1924;2;0;0;1
+971;Flavin Martin;Node_alt_971;0;1943;2;0;0;1
+972;Fonseca Rubem;Node_alt_972;0;2013;3;1;0;0
+973;Forna Aminatta;Node_alt_973;1;2009;5;0;0;0
+974;French Marilyn;Node_alt_974;1;1977;2;0;0;0
+975;Gaines Ernest J.;Node_alt_975;0;1993;2;0;0;0
+976;Gargash Maha;Node_alt_976;1;2013;4;0;0;0
+977;Gibbons Kaye;Node_alt_977;1;1988;2;0;0;0
+978;Gide André;Node_alt_978;0;1925;1;1;1;1
+979;Goytisolo Juan;Node_alt_979;0;1966;1;1;0;0
+980;Grau Shirley Ann;Node_alt_980;1;1964;2;0;0;1
+981;Green Henry;Node_alt_981;0;1945;1;0;0;0
+982;Grossmith George;Node_alt_982;0;1892;1;0;0;0
+983;Gunesekera Romesh;Node_alt_983;0;2004;4;0;0;0
+984;Guthrie Alfred Bertram Jr;Node_alt_984;0;1949;2;0;0;1
+985;Hagedorn Jessica;Node_alt_985;1;2001;4;0;0;0
+986;Hamilton Jane;Node_alt_986;1;1991;2;0;0;0
+987;Haynes Melinda;Node_alt_987;1;1999;2;0;0;0
+988;Haywood Eliza;Node_alt_988;1;1719;1;0;0;0
+989;Herbert Xavier;Node_alt_989;0;1975;6;0;0;0
+990;Hersey John;Node_alt_990;0;1944;4;0;0;1
+991;Hijuelos Oscar;Node_alt_991;0;1989;2;0;0;1
+992;Himmich Bensalem;Node_alt_992;0;2010;5;1;0;0
+993;Hoffman Alice;Node_alt_993;1;1997;2;0;0;0
+994;Hoffmann ETA;Node_alt_994;0;1820;1;1;0;0
+995;Hogg James;Node_alt_995;0;1824;1;0;0;0
+996;Holleran Andrew;Node_alt_996;0;1978;2;0;0;0
+997;Holt Victoria;Node_alt_997;1;1965;1;0;0;0
+998;Howatch Susan;Node_alt_998;1;1971;1;0;0;0
+999;Hulme Keri;Node_alt_999;1;1984;6;0;0;1
+1000;Humaydan Younes Iman;Node_alt_1000;1;2014;4;1;0;0
+1001;Huong Duong Thu;Node_alt_1001;1;2009;4;1;0;0
+1002;Hurston Zona Neale;Node_alt_1002;1;1936;2;0;0;0
+1003;Inchbald Elizabeth;Node_alt_1003;1;1791;1;0;0;0
+1004;Isegawa Moses;Node_alt_1004;0;1999;5;1;0;0
+1005;Ismailov Hamid;Node_alt_1005;0;2012;4;1;0;0
+1006;Johnson Josephine Winslow;Node_alt_1006;1;1934;2;0;0;1
+1007;Jones Edward Paul;Node_alt_1007;0;2003;2;0;0;1
+1008;Krishnamurthy Kalki;Node_alt_1008;0;1951;4;1;0;0
+1009;Karunatilaka Shehan;Node_alt_1009;0;2010;4;0;0;0
+1010;Kempadoo Oonya;Node_alt_1010;1;2013;3;0;0;0
+1011;King-Gamble Marcia;Node_alt_1011;1;2010;3;0;0;0
+1012;Kingsley Charles;Node_alt_1012;0;1863;1;0;0;0
+1013;Kohan Martin;Node_alt_1013;0;2007;3;1;0;0
+1014;Kuroyanagi Tetsuko;Node_alt_1014;1;1981;4;1;0;0
+1015;Kyomuhendo Goretti;Node_alt_1015;1;2007;5;0;0;0
+1016;Labelle Claude;Node_alt_1016;0;1922;2;0;0;0
+1017;La Farge Oliver;Node_alt_1017;0;1929;2;0;0;1
+1018;Lambourne Alfred;Node_alt_1018;0;1913;1;0;0;0
+1019;Lamb Wally;Node_alt_1019;0;1992;2;0;0;0
+1020;La Motte Ellen;Node_alt_1020;1;1918;2;0;0;0
+1021;Landa Gertrude;Node_alt_1021;1;1943;2;0;0;0
+1022;Landor Edward;Node_alt_1022;0;1847;1;0;0;0
+1023;Lane Anna;Node_alt_1023;1;1905;1;0;0;0
+1024;Lane Elinor;Node_alt_1024;1;1907;2;0;0;0
+1025;Lange Dietrich;Node_alt_1025;0;1917;1;1;0;0
+1026;Lang George;Node_alt_1026;0;1906;1;1;0;0
+1027;Langworthy Daniel;Node_alt_1027;0;1915;2;0;0;0
+1028;Lanman Charles;Node_alt_1028;0;1849;2;0;0;0
+1029;Laughlin Clara;Node_alt_1029;1;1914;2;0;0;0
+1030;Laut Agnes;Node_alt_1030;1;1913;2;0;0;0
+1031;Lavell Edith;Node_alt_1031;1;1922;2;0;0;0
+1032;Lazell Frederick;Node_alt_1032;0;1908;2;0;0;0
+1033;Leamy Edmund;Node_alt_1033;0;1906;1;0;0;0
+1034;Lee Day;Node_alt_1034;0;1852;2;0;0;0
+1035;Lee Hannah;Node_alt_1035;0;1837;2;0;0;0
+1036;Lee Holme;Node_alt_1036;1;1874;1;0;0;0
+1037;LeFeuvre Amy;Node_alt_1037;1;1898;1;0;0;0
+1038;Le Queux William;Node_alt_1038;0;1906;1;0;0;0
+1039;Lerrigo Charles;Node_alt_1039;0;1917;2;0;0;0
+1040;Leslie Emma;Node_alt_1040;1;1887;1;0;0;0
+1041;Letts Billie;Node_alt_1041;0;1995;2;0;0;0
+1042;Lewis Charlton;Node_alt_1042;0;1916;2;0;0;0
+1043;Lim Suchen Christine;Node_alt_1043;1;2017;4;0;0;0
+1044;Litchfield Grace;Node_alt_1044;1;1883;2;0;0;0
+1045;Litsey Edwin;Node_alt_1045;0;1902;2;0;0;0
+1046;Livermore George;Node_alt_1046;0;1920;2;0;0;0
+1047;Locke David;Node_alt_1047;0;1882;2;0;0;0
+1048;Lockhart Caroline;Node_alt_1048;1;1916;2;0;0;0
+1049;Lofts Norah;Node_alt_1049;1;1963;1;0;0;0
+1050;Long Helen;Node_alt_1050;1;1916;2;0;0;0
+1051;Longstreet Helen;Node_alt_1051;1;1904;2;0;0;0
+1052;Loomis Charles;Node_alt_1052;0;1911;2;0;0;0
+1053;Looms George;Node_alt_1053;0;1922;2;0;0;0
+1054;Lord Karen;Node_alt_1054;1;2012;3;0;0;0
+1055;Lorimer George;Node_alt_1055;0;1906;2;0;0;0
+1056;Loring Emilie;Node_alt_1056;1;1922;2;0;0;0
+1057;Lott Bret;Node_alt_1057;0;1991;2;0;0;0
+1058;Lovelace Earl;Node_alt_1058;0;2011;3;0;0;0
+1059;Lowe Clara;Node_alt_1059;1;1882;2;0;0;0
+1060;Lowry Edward;Node_alt_1060;0;1902;1;0;0;0
+1061;Ludovici Anthony;Node_alt_1061;0;1921;1;0;0;0
+1062;Lyle Eugene;Node_alt_1062;0;1905;2;0;0;0
+1063;Lynde Francis;Node_alt_1063;0;1906;2;0;0;0
+1064;MacKinlay Kantor;Node_alt_1064;0;1955;2;0;0;1
+1065;MacLeod Alistair;Node_alt_1065;0;1999;2;0;0;0
+1066;Mann William J.;Node_alt_1066;0;2006;2;0;0;0
+1067;Martínez Tomás Eloy;Node_alt_1067;0;1980;3;1;0;0
+1068;Matesis Pavlos;Node_alt_1068;0;1990;1;1;0;0
+1069;Mehta Gita;Node_alt_1069;1;1993;4;0;0;0
+1070;Meruane Lina;Node_alt_1070;1;2012;3;1;0;0
+1071;Middleton Stanley;Node_alt_1071;0;1974;1;0;0;1
+1072;Miller Caroline Pafford;Node_alt_1072;1;1933;2;0;0;1
+1073;Miller Sue;Node_alt_1073;1;1999;2;0;0;0
+1074;Miller Kei;Node_alt_1074;0;2013;3;0;0;0
+1075;Milne Alan Alexander;Node_alt_1075;0;1917;1;0;0;0
+1076;Mistry Rohinton;Node_alt_1076;0;1996;4;0;0;1
+1077;Mitchard Jacquelyn;Node_alt_1077;1;1996;2;0;0;0
+1078;Momaday Navarre Scott;Node_alt_1078;0;1968;2;0;0;1
+1079;More Hannah;Node_alt_1079;1;1803;1;0;0;0
+1080;Morgan Robert;Node_alt_1080;0;1999;2;0;0;0
+1081;Morris Mary McGarry;Node_alt_1081;1;1995;2;0;0;0
+1082;Mphahlele Es'kia;Node_alt_1082;0;1959;5;0;0;0
+1083;Mukherjee Bharati;Node_alt_1083;1;1998;4;0;0;0
+1084;Muller Carl;Node_alt_1084;0;1995;4;0;0;0
+1085;Murdoch Iris;Node_alt_1085;1;1966;1;0;0;1
+1086;Serpell Namwali;Node_alt_1086;1;2019;5;0;0;1
+1087;Narayan RK;Node_alt_1087;0;1959;4;0;0;0
+1088;Nasrallah Ibrahim;Node_alt_1088;0;2007;4;1;0;0
+1089;Nasrin Taslima;Node_alt_1089;1;1998;4;1;0;0
+1090;Nesbit Edith;Node_alt_1090;1;1903;1;0;0;0
+1091;Newby Percy Howard;Node_alt_1091;0;1968;1;0;0;1
+1092;Ninh Bao;Node_alt_1092;0;1990;4;1;0;0
+1093;Yi Nu Nu;Node_alt_1093;1;1994;4;1;0;0
+1094;O'Connor Edwin;Node_alt_1094;0;1961;2;0;0;1
+1095;O'Dell Tawni;Node_alt_1095;1;2000;2;0;0;0
+1096;St Omer Garth;Node_alt_1096;0;2015;3;0;0;0
+1097;Ondjaki Ondjaki;Node_alt_1097;0;2012;5;1;0;0
+1098;Owuor Yvonne Adhiambo;Node_alt_1098;1;2017;5;1;0;0
+1099;Parajuly Prajwal;Node_alt_1099;0;2013;4;0;0;0
+1100;Parsipur Shahrnush;Node_alt_1100;1;1990;4;1;0;0
+1101;Paton Alan;Node_alt_1101;0;1948;5;0;0;0
+1102;Phillips Caryl;Node_alt_1102;0;2000;3;0;0;1
+1103;Poole Ernest;Node_alt_1103;0;1917;2;0;0;1
+1104;Quindlen Anna;Node_alt_1104;1;1998;2;0;0;0
+1105;Quiroga Horacio;Node_alt_1105;0;1925;3;1;0;0
+1106;Randall FJ;Node_alt_1106;0;1908;1;0;0;0
+1107;Rand Edward;Node_alt_1107;0;1898;2;0;0;0
+1108;Rankin Carroll;Node_alt_1108;1;1910;2;0;0;0
+1109;Raper Eleanor;Node_alt_1109;1;1902;1;0;0;0
+1110;Ratner Vaddey;Node_alt_1110;1;2015;4;0;0;0
+1111;Ray Anna;Node_alt_1111;1;1901;2;0;0;0
+1112;Raymond Eveline;Node_alt_1112;1;1906;2;0;0;0
+1113;Reach Angus;Node_alt_1113;0;1852;1;0;0;0
+1114;Read George;Node_alt_1114;0;1912;2;0;0;0
+1115;Rebreanu Liviu;Node_alt_1115;0;1922;1;1;0;0
+1116;Rechy John;Node_alt_1116;0;1979;2;0;0;0
+1117;Reed Helen;Node_alt_1117;1;1902;2;0;0;0
+1118;Reid Elizabeth;Node_alt_1118;1;1890;2;0;0;0
+1119;Remick Grace;Node_alt_1119;1;1916;2;0;0;0
+1120;Reynolds George;Node_alt_1120;0;1845;1;0;0;0
+1121;Reynolds Sheri;Node_alt_1121;1;1995;2;0;0;0
+1122;Rhodes Eugene;Node_alt_1122;0;1917;2;0;0;0
+1123;Rice Alfred;Node_alt_1123;0;1914;1;0;0;0
+1124;Rice George;Node_alt_1124;0;1913;2;0;0;0
+1125;Richardson Albert;Node_alt_1125;0;1865;2;0;0;0
+1126;Richardson Dorothy;Node_alt_1126;1;1905;1;0;0;0
+1127;Richardson Sarah;Node_alt_1127;1;1858;2;0;0;0
+1128;Rich Charles;Node_alt_1128;0;1896;2;0;0;0
+1129;Richmond Grace;Node_alt_1129;1;1909;2;0;0;0
+1130;Richter Conrad;Node_alt_1130;0;1950;2;0;0;1
+1131;Riddle Albert;Node_alt_1131;0;1873;2;0;0;0
+1132;Rihani Ameen;Node_alt_1132;0;1911;4;0;0;0
+1133;Riley Henry;Node_alt_1133;0;1859;2;0;0;0
+1134;Ritchie Eric;Node_alt_1134;0;1915;1;0;0;0
+1135;Rives Hallie;Node_alt_1135;1;1907;2;0;0;0
+1136;Robin Gallienne;Node_alt_1136;1;1907;1;0;0;0
+1137;Robinson CH;Node_alt_1137;0;1913;2;0;0;0
+1138;Robinson Eliot;Node_alt_1138;0;1919;2;0;0;0
+1139;Roche Arthur;Node_alt_1139;0;1921;2;0;0;0
+1140;Roffey Monique;Node_alt_1140;1;2012;3;0;0;0
+1141;Roosevelt Wyn;Node_alt_1141;0;1910;2;0;0;0
+1142;Roper Edward;Node_alt_1142;0;1899;1;0;0;0
+1143;Rosebery Lord;Node_alt_1143;0;1910;1;0;0;0
+1144;Ross Albert;Node_alt_1144;0;1898;2;0;0;0
+1145;Ross Frederick;Node_alt_1145;0;1892;2;0;0;0
+1146;Rowland Helen;Node_alt_1146;1;1908;2;0;0;0
+1147;Rubens Bernice;Node_alt_1147;1;1969;1;0;0;1
+1148;Rubio Gwyn Hyman;Node_alt_1148;1;1998;2;0;0;0
+1149;Ruck Berta;Node_alt_1149;1;1916;1;0;0;0
+1150;Russell Dora;Node_alt_1150;1;1895;1;0;0;0
+1151;Ruxton George;Node_alt_1151;0;1915;1;0;0;0
+1152;Saer Juan José;Node_alt_1152;0;2001;3;1;0;0
+1153;Saul Jack;Node_alt_1153;0;1881;1;0;0;0
+1154;Scott Paul;Node_alt_1154;0;1977;1;0;0;1
+1155;Selvon Sam;Node_alt_1155;0;1966;3;0;0;0
+1156;Sembène Ousmane;Node_alt_1156;0;1973;5;1;0;0
+1157;Shaara Michael;Node_alt_1157;0;1974;2;0;0;1
+1158;Shah Bina;Node_alt_1158;1;2016;4;0;0;0
+1159;Sinclair Upton;Node_alt_1159;0;1942;2;0;0;1
+1160;Sionil Jose F;Node_alt_1160;0;1989;4;0;0;0
+1161;Sirees Nihad;Node_alt_1161;0;2016;4;1;0;0
+1162;Sirleaf Ellen Johnson;Node_alt_1162;1;2010;5;0;0;0
+1163;Smiley Jane;Node_alt_1163;1;1992;2;0;0;1
+1164;Solares Martin;Node_alt_1164;0;2011;3;1;0;0
+1165;Ibrahim Sonallah;Node_alt_1165;0;1974;5;1;0;0
+1166;Soueif Ahdaf;Node_alt_1166;1;2003;5;0;0;0
+1167;Stead Christina;Node_alt_1167;1;1940;6;0;0;0
+1168;Storey David;Node_alt_1168;0;1974;1;0;0;1
+1169;Stribling Thomas Sigismund;Node_alt_1169;0;1932;2;0;0;1
+1170;Sudbanthad Pitchaya;Node_alt_1170;0;2019;4;0;0;0
+1171;Susann Jacqueline;Node_alt_1171;1;1966;2;0;0;0
+1172;Swift Graham;Node_alt_1172;0;1996;1;0;0;1
+1173;Syjuco Miguel;Node_alt_1173;0;2008;4;0;0;0
+1174;Tademy Lalita;Node_alt_1174;1;2001;2;0;0;0
+1175;Taylor Bayard;Node_alt_1175;0;1866;2;0;0;0
+1176;Taylor Peter;Node_alt_1176;0;1986;2;0;0;1
+1177;Taylor Robert Lewis;Node_alt_1177;0;1958;2;0;0;1
+1178;Tekin Latife;Node_alt_1178;1;1989;4;1;0;0
+1179;Thurman Wallace;Node_alt_1179;0;1929;2;0;0;0
+1180;Toer Pramoedya Ananta;Node_alt_1180;0;1983;4;1;0;0
+1181;Turner Ethel;Node_alt_1181;1;1894;1;0;0;0
+1182;Tynan Katharine;Node_alt_1182;1;1903;1;0;0;0
+1183;Unsworth Barry;Node_alt_1183;0;1994;1;0;0;1
+1184;Upadhyay Samrat;Node_alt_1184;0;2002;4;0;0;0
+1185;Volpi Jorge;Node_alt_1185;0;1996;3;1;0;0
+1186;Warren Robert Penn;Node_alt_1186;0;1946;2;0;0;1
+1187;Welsapar Ak;Node_alt_1187;0;2015;4;1;0;0
+1188;Wendt Albert;Node_alt_1188;0;2012;6;0;0;0
+1189;West Dorothy;Node_alt_1189;1;1972;2;0;0;0
+1190;Wilson Margaret;Node_alt_1190;1;1923;2;0;0;1
+1191;Wright Stephen;Node_alt_1191;0;1994;2;0;0;0
+1192;Wroblewski David;Node_alt_1192;0;2008;2;0;0;0
+1193;Yates Dornford;Node_alt_1193;0;1932;1;0;0;0
+1194;Yefremov Ivan;Node_alt_1194;0;1957;1;1;0;0
+1195;Yong Jin;Node_alt_1195;0;1957;4;1;0;0
+1196;Young Lani Wendt;Node_alt_1196;1;2011;6;0;0;0
+1197;Ayatsuji Yukito;Node_alt_1197;0;1987;4;1;0;0
+1198;Groom Winston;Node_alt_1198;0;1986;2;0;0;0
+1199;McBride James;Node_alt_1199;0;2020;2;0;0;1
+1200;Akhtar Ayad;Node_alt_1200;0;2020;2;0;0;1
+1201;Lerner Ben;Node_alt_1201;0;2019;2;0;0;1
+1202;Barry Kevin;Node_alt_1202;0;2019;1;0;0;1
+1203;Orange Tommy;Node_alt_1203;0;2019;2;0;0;1
+1204;Mahajan Karan;Node_alt_1204;0;2016;4;0;0;1
+1205;McGuire Ian;Node_alt_1205;0;2016;1;0;0;1
+1206;Hertmans Stefan;Node_alt_1206;0;2016;1;1;0;1
+1207;Sharma Akhil;Node_alt_1207;0;2014;4;0;0;1
+1208;Klay Phil;Node_alt_1208;0;2014;2;0;0;1
+1209;Powers Kevin;Node_alt_1209;0;2012;2;0;0;1
+1210;Harbach Chad;Node_alt_1210;0;2011;2;0;0;1
+1211;Washington Bryan;Node_alt_1211;0;2019;2;0;0;0
+1212;Cline Ernest;Node_alt_1212;0;2020;2;0;0;1
+1213;Lanchester John;Node_alt_1213;0;2020;1;0;0;1
+1214;Washburn Kawai;Node_alt_1214;0;2020;2;0;0;0
+1215;Taylor Brandon;Node_alt_1215;0;2020;2;0;0;1
+1216;McCann Colum;Node_alt_1216;0;2020;1;0;0;1
+1217;Greenwell Garth;Node_alt_1217;0;2020;2;0;0;1
+1218;Vuong Ocean;Node_alt_1218;0;2019;2;0;0;1
+1219;Johnson Denis;Node_alt_1219;0;2018;2;0;0;0
+1220;Yates Christopher;Node_alt_1220;0;2018;1;0;0;0
+1221;Winters Ben;Node_alt_1221;0;2016;2;0;0;1
+1222;Haslett Adam;Node_alt_1222;0;2016;2;0;0;1
+1223;Barrett Colin;Node_alt_1223;0;2015;1;0;0;1
+1224;Baxter Charles;Node_alt_1224;0;2015;2;0;0;0
+1225;Hemon Aleksandar;Node_alt_1225;0;2015;2;0;0;0
+1226;Petterson Per;Node_alt_1226;0;2015;1;1;0;0
+1227;Tóibín Colm;Node_alt_1227;0;2007;1;0;0;1
+1228;House Richard;Node_alt_1228;0;2014;2;0;0;1
+1229;Shacochis Bob;Node_alt_1229;0;2013;2;0;0;1
+1230;Meyer Philipp;Node_alt_1230;0;2013;2;0;0;1
+1231;Barry Sebastian;Node_alt_1231;0;2017;1;0;0;1
+1232;Lavalle Victor;Node_alt_1232;0;2017;2;0;0;0
+1233;Kunzru Hari;Node_alt_1233;0;2017;1;0;0;0
+1234;Coovadia Imraan;Node_alt_1234;0;2018;5;0;0;0
+1235;Addonia Sulaiman;Node_alt_1235;0;2008;5;0;0;0
+1236;Iweala Uzodinma;Node_alt_1236;0;2018;2;0;0;0
+1237;Nwokolo Chuma;Node_alt_1237;0;2018;5;0;0;0
+1238;Murray Paul;Node_alt_1238;0;2010;1;0;0;1
+1239;Maupin Armistead;Node_alt_1239;0;2010;2;0;0;1
+1240;Beauman Ned;Node_alt_1240;0;2010;1;0;0;1
+1241;Temple Peter;Node_alt_1241;0;2010;5;0;0;1
+1242;Neville Stuart;Node_alt_1242;0;2010;1;0;0;1
+1243;Harrison MJ;Node_alt_1243;0;2020;1;0;0;1
+1244;Porter Max;Node_alt_1244;0;2020;1;0;0;1
+1245;Meek James;Node_alt_1245;0;2012;1;0;0;0
+1246;Remoto Danton;Node_alt_1246;0;2015;4;0;0;0
+1247;Vargas Jose F;Node_alt_1247;0;2018;4;0;0;0
+1248;Lee Chang-rae;Node_alt_1248;0;2010;2;0;0;0
+1249;Kimani Peter;Node_alt_1249;0;2017;5;0;0;0
+1250;Burnet Macrae Graeme;Node_alt_1250;0;2017;1;0;0;0
+1251;Kingsnorth Paul;Node_alt_1251;0;2016;1;0;0;1
+1252;Szalay David;Node_alt_1252;0;2016;2;0;0;1
+1253;Enrigue Alvaro;Node_alt_1253;0;2016;3;1;0;1
+1254;MacNeil Kevin;Node_alt_1254;0;2016;1;0;0;1
+1255;Rothmann Ralf;Node_alt_1255;0;2017;1;1;0;0
+1256;MacLaverty Bernard;Node_alt_1256;0;2007;1;0;0;1
+1257;Bjørnson Bjørnstjerne;Node_alt_1257;0;1860;1;1;1;1
+1258;Heyse Paul;Node_alt_1258;0;1855;1;1;1;1
+1259;Hauptmann Gerhart;Node_alt_1259;0;1912;1;1;1;1
+1260;Rolland Romain;Node_alt_1260;0;1920;1;1;1;1
+1261;Reymont Wladyslaw;Node_alt_1261;0;1896;1;1;1;1
+1262;Undset Sigrid;Node_alt_1262;1;1951;1;1;1;1
+1263;Galsworthy John;Node_alt_1263;0;1922;1;0;1;1
+1264;Bunin Ivan;Node_alt_1264;0;1916;1;1;1;1
+1265;du Gard Roger;Node_alt_1265;0;1922;1;1;1;1
+1266;Sillanpää Frans;Node_alt_1266;0;1934;1;1;1;1
+1267;Mauriac François;Node_alt_1267;0;1920;1;1;1;1
+1268;Andrić Ivo;Node_alt_1268;0;1945;1;1;1;1
+1269;Simon Claude;Node_alt_1269;0;2001;1;1;1;1
+1270;Jelinek Elfriede;Node_alt_1270;1;1980;1;1;1;1
+1271;Le Clezio JMG;Node_alt_1271;0;1966;1;1;1;1
+1272;Spark Muriel;Node_alt_1272;1;1968;1;0;0;0
+1273;Barker AL;Node_alt_1273;1;1970;1;0;0;0
+1274;Bowen Elizabeth;Node_alt_1274;1;1968;1;0;0;0
+1275;Hazzard Shirley;Node_alt_1275;1;1970;6;0;0;0
+1276;Robinson Derek;Node_alt_1276;0;1971;1;0;0;0
+1277;Taylor Elizabeth;Node_alt_1277;1;1971;1;0;0;0
+1278;Berger John;Node_alt_1278;0;1972;1;0;0;1
+1279;Bainbridge Beryl;Node_alt_1279;1;1973;1;0;0;1
+1280;Trevor William;Node_alt_1280;0;1976;1;0;0;0
+1281;Blackwood Caroline;Node_alt_1281;1;1977;1;0;0;0
+1282;Pym Barbara;Node_alt_1282;1;1977;1;0;0;0
+1283;Gardam Jane;Node_alt_1283;1;1978;1;0;0;0
+1284;Weldon Fay;Node_alt_1284;1;1978;1;0;0;0
+1285;Burgess Anthony;Node_alt_1285;0;1980;1;0;0;0
+1286;Carr JL;Node_alt_1286;0;1980;1;0;0;0
+1287;Keane Molly;Node_alt_1287;1;1981;1;0;0;0
+1288;Thomas DM;Node_alt_1288;0;1981;1;0;0;0
+1289;Boyd William;Node_alt_1289;0;1982;1;0;0;0
+1290;Bradbury Malcolm;Node_alt_1290;0;1983;1;0;0;0
+1291;Fuller John;Node_alt_1291;0;1983;1;0;0;0
+1292;Lodge David;Node_alt_1292;0;1984;1;0;0;0
+1293;Davies Robertson;Node_alt_1293;0;1985;2;0;0;0
+1294;Ackroyd Peter;Node_alt_1294;0;1987;1;0;0;1
+1295;Bedford Sybille;Node_alt_1295;1;1989;1;0;0;0
+1296;Kelman James;Node_alt_1296;0;1989;1;0;0;0
+1297;Tremain Rose;Node_alt_1297;1;1989;1;0;0;0
+1298;McGahern John;Node_alt_1298;0;1990;1;0;0;0
+1299;Moore Brian;Node_alt_1299;0;1990;1;0;0;0
+1300;Amis Martin;Node_alt_1300;0;1991;1;0;0;1
+1301;McCabe Patrick;Node_alt_1301;0;1992;1;0;0;0
+1302;Fischer Tibor;Node_alt_1302;0;1992;1;0;0;0
+1303;Crace Jim;Node_alt_1303;0;1997;1;0;0;0
+1304;Jackson Mick;Node_alt_1304;0;1997;1;0;0;0
+1305;Parks Tim;Node_alt_1305;0;1997;1;0;0;0
+1306;Booth Martin;Node_alt_1306;0;1998;1;0;0;0
+1307;Mills Magnus;Node_alt_1307;0;1998;1;0;0;0
+1308;Frayn Michael;Node_alt_1308;0;1999;1;0;0;0
+1309;Azzopardi Trezza;Node_alt_1309;1;2000;1;0;0;0
+1310;Kneale Matthew;Node_alt_1310;0;2000;1;0;0;0
+1311;Seiffert Rachel;Node_alt_1311;1;2001;1;0;0;0
+1312;Smith Ali;Node_alt_1312;1;2001;1;0;0;0
+1313;Galgut Damon;Node_alt_1313;0;2003;5;0;0;0
+1314;Heller Zoë;Node_alt_1314;1;2003;1;0;0;0
+1315;Morrall Clare;Node_alt_1315;1;2003;1;0;0;0
+1316;Hall Sarah;Node_alt_1316;1;2004;1;0;0;0
+1317;Woodward Gerard;Node_alt_1317;0;2004;1;0;0;0
+1318;Hyland MJ;Node_alt_1318;1;2006;1;0;0;0
+1319;Barker Nicola;Node_alt_1319;1;2007;1;0;0;0
+1320;Jones Lloyd;Node_alt_1320;0;2006;6;0;0;0
+1321;Sinha Indra;Node_alt_1321;0;2007;4;0;0;0
+1322;Grant Linda;Node_alt_1322;1;2008;1;0;0;0
+1323;Hensher Philip;Node_alt_1323;0;2008;1;0;0;0
+1324;Toltz Steve;Node_alt_1324;0;2008;6;0;0;0
+1325;Foulds Adam;Node_alt_1325;0;2009;1;0;0;0
+1326;Mawer Simon;Node_alt_1326;0;2009;1;0;0;0
+1327;Donoghue Emma;Node_alt_1327;1;2010;1;0;0;1
+1328;Levy Andrea;Node_alt_1328;0;2010;1;0;0;0
+1329;McCarthy Tom;Node_alt_1329;0;2010;1;0;0;0
+1330;Birch Carol;Node_alt_1330;1;2011;1;0;0;0
+1331;deWitt Patrick;Node_alt_1331;0;2011;2;0;0;0
+1332;Edugyan Esi;Node_alt_1332;1;2011;2;0;0;0
+1333;Kelman Stephen;Node_alt_1333;0;2011;1;0;0;0
+1334;Miller AD;Node_alt_1334;0;2011;1;0;0;0
+1335;Levy Deborah;Node_alt_1335;1;2011;5;0;0;0
+1336;Moore Alison;Node_alt_1336;1;2012;1;0;0;0
+1337;Self Will;Node_alt_1337;0;2012;1;0;0;0
+1338;Thayil Jeet;Node_alt_1338;0;2012;4;0;0;0
+1339;Ferris Joshua;Node_alt_1339;0;2014;2;0;0;0
+1340;Fowler Karen;Node_alt_1340;1;2014;2;0;0;1
+1341;Sahota Sunjeev;Node_alt_1341;0;2015;1;0;0;1
+1342;Thien Madeleine;Node_alt_1342;1;2016;2;0;0;0
+1343;Fridlund Emily;Node_alt_1343;1;2017;2;0;0;0
+1344;Mozley Fiona;Node_alt_1344;1;2017;1;0;0;0
+1345;Johnson Daisy;Node_alt_1345;1;2018;1;0;0;0
+1346;Kushner Rachel;Node_alt_1346;1;2018;2;0;0;0
+1347;Ellmann Lucy;Node_alt_1347;1;2019;2;0;0;1
+1348;Cook Diane;Node_alt_1348;1;2020;2;0;0;1
+1349;Marquand John;Node_alt_1349;0;1937;2;0;0;1
+1350;Agee James;Node_alt_1350;0;1957;2;0;0;1
+1351;Porter Katherine;Node_alt_1351;1;1965;2;0;0;1
+1352;Stafford Jean;Node_alt_1352;1;1969;2;0;0;1
+1353;McPherson James;Node_alt_1353;0;1977;2;0;0;1
+1354;Butler Robert;Node_alt_1354;0;1992;2;0;0;1
+1355;Egan Jennifer;Node_alt_1355;1;2010;2;0;0;1
+1356;Erdrich Louise;Node_alt_1356;1;2020;2;0;0;1
+1357;Škvorecký Josef;Node_alt_1357;0;1958;1;1;0;1
+1358;Frisch Max;Node_alt_1358;0;1954;1;1;0;1
+1359;Rao Raja;Node_alt_1359;0;1965;4;0;0;1
+1360;Ugrešić Dubravka;Node_alt_1360;1;2004;1;1;0;1
+1361;Michon Pierre;Node_alt_1361;0;1984;1;1;0;1
+1362;Magris Claudio;Node_alt_1362;0;1991;1;1;0;1
+1363;Lustig Arnošt;Node_alt_1363;0;2000;1;1;0;1
+1364;Nádas Péter;Node_alt_1364;0;2005;1;1;0;1
+1365;Klíma Ivan;Node_alt_1365;0;1986;1;1;0;1
