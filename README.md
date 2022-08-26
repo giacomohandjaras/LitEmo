@@ -76,9 +76,9 @@ STEP D: additional analyses <br>
 8) <i>measure_author_dictionary_bootstrap.m</i>: bootstrap measure of the vocabulary size (Supplementary Figure 1F)
 <br>
 <br>
-<br>
-Preprint available <i>here</i>.
-Large MAT files are available in the OSF repository of the project: https://osf.io/mcx5a/
+
+Preprint available <i>here</i>.<br>
+Large MAT files are available in the OSF repository of the project: https://osf.io/mcx5a/ <br>
 
 
 
