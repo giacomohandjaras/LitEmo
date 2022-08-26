@@ -67,7 +67,7 @@ STEP D: additional analyses <br>
 
 4) <i>plot_liwc.m</i>: sentiment analysis performed using LIWC 2015. Results are reported in Supplementary Figure 5
 
-5) <i>plot_terms_inspace.m/i>: worldmap mapping the Cohen's d of the sex effect for each term of interest (Supplementary Figure 7A)
+5) <i>plot_terms_inspace.m</i>: worldmap mapping the Cohen's d of the sex effect for each term of interest (Supplementary Figure 7A)
 
 6) <i>plot_terms_intime.m</i>: historical trends of word frequency for each sex (Supplementary Figure 7B)
 
