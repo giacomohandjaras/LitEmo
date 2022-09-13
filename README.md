@@ -1,5 +1,10 @@
 # LitEmo v1.00
 
+Figures and supplementary tables are available in directory <i>figures/</i> and <i>supplementary tables/</i>. <br>
+Large MAT files, figures and supplementary tables are available in the OSF repository of the project: https://osf.io/mcx5a/ <br>
+Website to explore results: https://www.sane-elab.eu/litemo/welcome.php <br>
+<br><br>
+
 #################################################<br>
 STEP A: from single books to a collection of documents, each one corresponding to an author<br>
 #################################################<br>
@@ -76,10 +81,6 @@ STEP D: additional analyses <br>
 8) <i>measure_author_dictionary_bootstrap.m</i>: bootstrap measure of the vocabulary size (Supplementary Figure 1F)
 <br>
 <br>
-
-Figures and supplementary tables are available in directory <i>figures/</i> and <i>supplementary tables/</i>. <br>
-Large MAT files, figures and supplementary tables are available in the OSF repository of the project: https://osf.io/mcx5a/ <br>
-Website to explore results: https://www.sane-elab.eu/litemo/welcome.php <br>
 
 
 
