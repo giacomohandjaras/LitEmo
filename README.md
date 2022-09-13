@@ -77,8 +77,8 @@ STEP D: additional analyses <br>
 <br>
 <br>
 
-
-Large MAT files are available in the OSF repository of the project: https://osf.io/mcx5a/ <br>
+Figures and supplementary tables are available in directory <i>figures/</i> and <i>supplementary tables/</i>. <br>
+Large MAT files, figures and supplementary tables are available in the OSF repository of the project: https://osf.io/mcx5a/ <br>
 Website to explore results: https://www.sane-elab.eu/litemo/welcome.php <br>
 
 
